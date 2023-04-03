@@ -1,0 +1,97 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="LanguageDetectionInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyBroadExceptionInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyGlobalUndefinedInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+          <list size="21">
+            <item index="0" class="java.lang.String" itemvalue="dj-database-url" />
+            <item index="1" class="java.lang.String" itemvalue="matplotlib-inline" />
+            <item index="2" class="java.lang.String" itemvalue="data" />
+            <item index="3" class="java.lang.String" itemvalue="executing" />
+            <item index="4" class="java.lang.String" itemvalue="gast" />
+            <item index="5" class="java.lang.String" itemvalue="hstspreload" />
+            <item index="6" class="java.lang.String" itemvalue="click" />
+            <item index="7" class="java.lang.String" itemvalue="importlib-metadata" />
+            <item index="8" class="java.lang.String" itemvalue="DateTime" />
+            <item index="9" class="java.lang.String" itemvalue="imageio" />
+            <item index="10" class="java.lang.String" itemvalue="colorama" />
+            <item index="11" class="java.lang.String" itemvalue="Django" />
+            <item index="12" class="java.lang.String" itemvalue="matplotlib" />
+            <item index="13" class="java.lang.String" itemvalue="charset-normalizer" />
+            <item index="14" class="java.lang.String" itemvalue="multidict" />
+            <item index="15" class="java.lang.String" itemvalue="prompt-toolkit" />
+            <item index="16" class="java.lang.String" itemvalue="soupsieve" />
+            <item index="17" class="java.lang.String" itemvalue="pytz" />
+            <item index="18" class="java.lang.String" itemvalue="pyparsing" />
+            <item index="19" class="java.lang.String" itemvalue="readchar" />
+            <item index="20" class="java.lang.String" itemvalue="pyowm" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyPep8Inspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="E302" />
+          <option value="E701" />
+          <option value="E702" />
+          <option value="E225" />
+          <option value="W292" />
+          <option value="E305" />
+          <option value="E306" />
+          <option value="E128" />
+          <option value="E265" />
+          <option value="E303" />
+          <option value="W605" />
+          <option value="E722" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyPep8NamingInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="N802" />
+          <option value="N806" />
+          <option value="N801" />
+          <option value="N803" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyShadowingBuiltinsInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredNames">
+        <list>
+          <option value="max" />
+          <option value="dict" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="int.sleep" />
+          <option value="cv2.*" />
+          <option value="dict.append" />
+          <option value="_dict_items.__getitem__" />
+          <option value="random.random.choice" />
+          <option value="speedtest.*" />
+          <option value="int.replace" />
+          <option value="telebot.types.UserProfilePhotos.__getitem__" />
+          <option value="object.pg_dp" />
+          <option value="nlp.words.*" />
+          <option value="str.form" />
+          <option value="apps.ownProjects.BookFinder.FinderWithGoogle.*" />
+          <option value="int.__await__" />
+          <option value="str.*" />
+          <option value="oop.tester.AA" />
+          <option value="oop.tester.*" />
+          <option value="iteduGreenBot.objsc.obj.receiptId" />
+          <option value="random.random.choices" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
