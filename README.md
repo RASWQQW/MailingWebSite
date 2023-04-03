@@ -7,6 +7,32 @@ This example shows how to use Flask 2 on Vercel with Serverless Functions using 
 available link is : https://mailing-web-site.vercel.app/
 
 
+
+# There is permits to execute
+
+1 Create Search button more excatly
+    1 add city sorting button
+    2 add interest sorting button
+    3 add company trading capacity and adress
+    
+    4 add sort of deriving elements (phone number, telegram, whatsapp, etc...)
+    5 add Order by name view etc... 
+    6 add time during with works on
+
+2 Create Personal admission
+    1 add reg/log in 
+    2 add history saver
+    3 add specefic searching settings saver
+    4 add personal business intersting cats and teherfore and notification service
+    5 add user bot to in site and for to linking (send self tokin from whatsapp, telegram)
+
+3 Retriving optimization
+    1 get file with doc kind of .txt, .exel, .word etc...
+    2 get file with ...
+
+
+
+
 App extracting 
 
 ```bash
