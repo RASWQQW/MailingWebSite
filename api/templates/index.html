@@ -9,13 +9,15 @@
 <body>
     <form method="POST" action={{ url_for('searching') }}>
     <input type="search" name="text" required value={{ searched }}>
+    <input type="search" name="city" required value={{ city }}>
     <button type="submit" title="Search">Search</button>
     </form>
 
 
     {% if params %}
         {% for el in params%}
-            <a href="{{ el.url }}"><h1>{{ el.title }}</h1></a>
+            <a href="{{ el.firm_id }}"><h1>{{ el.name }}</h1></a>
+            <p> Number: {{ el.phone_number }}</p>>
         {%  endfor %}
     {% endif %}
 
