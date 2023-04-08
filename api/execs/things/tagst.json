@@ -1,0 +1,77 @@
+{
+  "GetAllPagesCount": [
+      {
+          "name": "div",
+          "cl": "_z72pvu"
+      },
+      {
+          "name": "div",
+          "cl": "_3zzdxk"
+      },
+      {
+          "name": "div",
+          "cl": "_1667t0u"
+      },
+      {
+          "name": "div",
+          "cl": "_1rkbbi0x"
+      },
+      {
+          "name": "div",
+          "cl": "_15gu4wr"
+      },
+      {
+          "name": "div",
+          "cl": "_1x4k6z7"
+      }],
+
+
+  "GetACC":{
+        "step1": {
+                    "name": "div",
+                    "cl": "_awwm2v"
+                 },
+
+        "step2": {
+                    "name": "div",
+                    "cl": "_aa8wln"
+                 },
+
+        "step3": {
+                    "name": "div",
+                    "cl": "_17kbpb3"
+                 },
+
+        "step4": {
+                    "name": "div",
+                    "cl": "_zjunba"
+                 },
+
+        "step5": {
+                    "name": "a",
+                    "cl": "_1rehek"
+                 }
+  },
+
+  "GettingNumberOfResults": [{
+                      "name": "div",
+                      "cl": "_166m4gk"
+                  },
+                  {
+                      "name": "div",
+                      "cl": "_j9wzpl"
+                  },
+                  {
+                      "name": "div",
+                      "cl": "_nude0k3"
+                  },
+                  {
+                      "name": "a",
+                      "cl": "_rdxuhv3"
+                  },
+                  {
+                      "name": "span",
+                      "cl": "_1xhlznaa"
+
+                  }]
+}
