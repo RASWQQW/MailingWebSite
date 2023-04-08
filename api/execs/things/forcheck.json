@@ -1,2 +1,1894 @@
 [
-     
+     {
+          "name": "\u0417\u043e\u043b\u043e\u0442\u043e\u0435 \u044f\u0431\u043b\u043e\u043a\u043e", 
+          "occupancy": "\u041f\u0430\u0440\u0444\u044e\u043c\u0435\u0440\u043d\u044b\u0439 \u0441\u0443\u043f\u0435\u0440\u043c\u0430\u0440\u043a\u0435\u0442", 
+          "rating": 4.1, 
+          "firm_id": "https://2gis.kz/moscow/firm/70000001058949035", 
+          "address": {
+               "street": {
+                    "text": "\u0422\u0440\u0443\u0431\u043d\u0430\u044f \u043f\u043b\u043e\u0449\u0430\u0434\u044c,2", 
+                    "link": "/moscow/geo/4504235282758873"
+               }, 
+               "floor": "\u0422\u0440\u0443\u0431\u043d\u0430\u044f \u043f\u043b\u043e\u0449\u0430\u0434\u044c,2", 
+               "city": "\u041c\u0435\u0449\u0430\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d, \u041c\u043e\u0441\u043a\u0432\u0430, 107031"
+          }, 
+          "about": "\u041f\u0430\u0440\u0444\u044e\u043c\u0435\u0440\u043d\u044b\u0439 \u0441\u0443\u043f\u0435\u0440\u043c\u0430\u0440\u043a\u0435\u0442", 
+          "phone_number": null, 
+          "social_medias": {
+               "\u0412\u041a\u043e\u043d\u0442\u0430\u043a\u0442\u0435": "https://vk.com/goldapple_ru", 
+               "YouTube": "https://youtube.com/channel/UC5vsg5-xOIT0N-jilqFSz_w", 
+               "WhatsApp": "https://wa.me/78007707021?text=%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%D1%82%D0%B5!%0A%0A%D0%9F%D0%B8%D1%88%D1%83%20%D0%B8%D0%B7%20%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F%202%D0%93%D0%98%D0%A1.%0A%0A", 
+               "Telegram": "https://t.me/goldapple_ru"
+          }, 
+          "website": "http://link.2gis.com/1.2/7D6135A6/online/20230401/project32/70000001058949035/null/t5zgyg6B3AG2A11301IGGGG2dkn8cA95G6G46C79946A066HqEpt7A3B4J74G4IG1JG4IJ4Jg2tuuv6B0C591117BB1H1JJ11b?http://www.goldapple.ru", 
+          "mail": null
+     }, 
+     {
+          "name": "\u0417\u043e\u043b\u043e\u0442\u043e\u0435 \u044f\u0431\u043b\u043e\u043a\u043e", 
+          "occupancy": "\u041f\u0430\u0440\u0444\u044e\u043c\u0435\u0440\u043d\u044b\u0439 \u0441\u0443\u043f\u0435\u0440\u043c\u0430\u0440\u043a\u0435\u0442", 
+          "rating": 4.0, 
+          "firm_id": "https://2gis.kz/moscow/firm/70000001058881868", 
+          "address": {
+               "street": {
+                    "text": "\u041f\u0430\u0432\u0435\u043b\u0435\u0446\u043a\u0430\u044f \u043f\u043b\u043e\u0449\u0430\u0434\u044c,3", 
+                    "link": "/moscow/geo/70030076192434623"
+               }, 
+               "floor": "\u041f\u0430\u0432\u0435\u043b\u0435\u0446\u043a\u0430\u044f \u043f\u043b\u043e\u0449\u0430\u0434\u044c,3", 
+               "city": "\u0417\u0430\u043c\u043e\u0441\u043a\u0432\u043e\u0440\u0435\u0447\u044c\u0435 \u0440\u0430\u0439\u043e\u043d, \u041c\u043e\u0441\u043a\u0432\u0430, 115114"
+          }, 
+          "about": "\u041f\u0430\u0440\u0444\u044e\u043c\u0435\u0440\u043d\u044b\u0439 \u0441\u0443\u043f\u0435\u0440\u043c\u0430\u0440\u043a\u0435\u0442", 
+          "phone_number": "tel:88007707021", 
+          "social_medias": {
+               "\u0412\u041a\u043e\u043d\u0442\u0430\u043a\u0442\u0435": "https://vk.com/goldapple_ru", 
+               "YouTube": "https://youtube.com/channel/UC5vsg5-xOIT0N-jilqFSz_w", 
+               "WhatsApp": "https://wa.me/78007707021?text=%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%D1%82%D0%B5!%0A%0A%D0%9F%D0%B8%D1%88%D1%83%20%D0%B8%D0%B7%20%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F%202%D0%93%D0%98%D0%A1.%0A%0A", 
+               "Telegram": "https://t.me/goldapple_ru"
+          }, 
+          "website": "http://link.2gis.com/1.2/90896676/online/20230401/project32/70000001058881868/null/8ro6j86B3AG2A11301IGGGG2237fbl95G6G46C7995A2899HqEpt7A3B5J74G4IG1JG4IJ4JAoukuv6B0C591117BA1H1JJ165?http://www.goldapple.ru", 
+          "mail": "www.goldapple.ru"
+     }, 
+     {
+          "name": "\u0417\u043e\u043b\u043e\u0442\u043e\u0435 \u044f\u0431\u043b\u043e\u043a\u043e", 
+          "occupancy": "\u041f\u0430\u0440\u0444\u044e\u043c\u0435\u0440\u043d\u044b\u0439 \u0441\u0443\u043f\u0435\u0440\u043c\u0430\u0440\u043a\u0435\u0442", 
+          "rating": 3.9, 
+          "firm_id": "https://2gis.kz/moscow/firm/70000001027636084", 
+          "address": {
+               "street": {
+                    "text": "\u041f\u0440\u0435\u0441\u043d\u0435\u043d\u0441\u043a\u0430\u044f \u043d\u0430\u0431\u0435\u0440\u0435\u0436\u043d\u0430\u044f,2", 
+                    "link": "/moscow/geo/4504235282796239"
+               }, 
+               "floor": "\u041f\u0440\u0435\u0441\u043d\u0435\u043d\u0441\u043a\u0430\u044f \u043d\u0430\u0431\u0435\u0440\u0435\u0436\u043d\u0430\u044f,2", 
+               "city": "\u041f\u0440\u0435\u0441\u043d\u0435\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d, \u041c\u043e\u0441\u043a\u0432\u0430, 123112"
+          }, 
+          "about": "\u041f\u0430\u0440\u0444\u044e\u043c\u0435\u0440\u043d\u044b\u0439 \u0441\u0443\u043f\u0435\u0440\u043c\u0430\u0440\u043a\u0435\u0442", 
+          "phone_number": "tel:88007707021", 
+          "social_medias": {
+               "\u0412\u041a\u043e\u043d\u0442\u0430\u043a\u0442\u0435": "https://vk.com/goldapple_ru", 
+               "YouTube": "https://youtube.com/channel/UC5vsg5-xOIT0N-jilqFSz_w", 
+               "WhatsApp": "https://wa.me/78007707021?text=%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%D1%82%D0%B5!%0A%0A%D0%9F%D0%B8%D1%88%D1%83%20%D0%B8%D0%B7%20%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F%202%D0%93%D0%98%D0%A1.%0A%0A", 
+               "Telegram": "https://t.me/goldapple_ru"
+          }, 
+          "website": "http://link.2gis.com/1.2/E78F5AF1/online/20230401/project32/70000001027636084/null/Ami5E86B3AG2A11301IGGGG2edAfnk95G6G46C7995570B5HqEpt7A3B5J74G4IG1JG4IJ4Jpqcfuv6B0C591114A81H1JJ1c6?http://www.goldapple.ru", 
+          "mail": "www.goldapple.ru"
+     }, 
+     {
+          "name": "\u0417\u043e\u043b\u043e\u0442\u043e\u0435 \u044f\u0431\u043b\u043e\u043a\u043e", 
+          "occupancy": "\u041f\u0430\u0440\u0444\u044e\u043c\u0435\u0440\u043d\u044b\u0439 \u0441\u0443\u043f\u0435\u0440\u043c\u0430\u0440\u043a\u0435\u0442", 
+          "rating": 3.1, 
+          "firm_id": "https://2gis.kz/moscow/firm/70000001049838821", 
+          "address": {
+               "street": {
+                    "text": "\u041f\u0440\u043e\u0441\u043f\u0435\u043a\u0442 \u041c\u0438\u0440\u0430,211", 
+                    "link": "/moscow/geo/4504235283007809"
+               }, 
+               "floor": "\u041f\u0440\u043e\u0441\u043f\u0435\u043a\u0442 \u041c\u0438\u0440\u0430,211", 
+               "city": "\u0421\u0432\u0438\u0431\u043b\u043e\u0432\u043e \u0440\u0430\u0439\u043e\u043d, \u041c\u043e\u0441\u043a\u0432\u0430, 129226"
+          }, 
+          "about": "\u041f\u0430\u0440\u0444\u044e\u043c\u0435\u0440\u043d\u044b\u0439 \u0441\u0443\u043f\u0435\u0440\u043c\u0430\u0440\u043a\u0435\u0442", 
+          "phone_number": "tel:88007707021", 
+          "social_medias": {
+               "\u0412\u041a\u043e\u043d\u0442\u0430\u043a\u0442\u0435": "https://vk.com/goldapple_ru", 
+               "YouTube": "https://youtube.com/channel/UC5vsg5-xOIT0N-jilqFSz_w", 
+               "WhatsApp": "https://wa.me/78007707021?text=%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%D1%82%D0%B5!%0A%0A%D0%9F%D0%B8%D1%88%D1%83%20%D0%B8%D0%B7%20%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F%202%D0%93%D0%98%D0%A1.%0A%0A", 
+               "Telegram": "https://t.me/goldapple_ru"
+          }, 
+          "website": "http://link.2gis.com/1.2/72729630/online/20230401/project32/70000001049838821/null/drp4rk6B3AG2A11301IGGGG2swDrh195G6G46C799559852HqEpt7A3B5J74G4IG1JG4IJ4Jw8gquv6B0C591116CA1H1JJ1de?http://www.goldapple.ru", 
+          "mail": "www.goldapple.ru"
+     }, 
+     {
+          "name": "Apple Box", 
+          "occupancy": "\u041c\u0430\u0433\u0430\u0437\u0438\u043d", 
+          "rating": 3.4, 
+          "firm_id": "https://2gis.kz/moscow/firm/70000001040821951", 
+          "address": {
+               "street": {
+                    "text": "\u0427\u043e\u043d\u0433\u0430\u0440\u0441\u043a\u0438\u0439 \u0431\u0443\u043b\u044c\u0432\u0430\u0440,7", 
+                    "link": "/moscow/geo/70030076163255977"
+               }, 
+               "floor": "\u0427\u043e\u043d\u0433\u0430\u0440\u0441\u043a\u0438\u0439 \u0431\u0443\u043b\u044c\u0432\u0430\u0440,7", 
+               "city": "\u041d\u0430\u0433\u043e\u0440\u043d\u044b\u0439 \u0440\u0430\u0439\u043e\u043d, \u041c\u043e\u0441\u043a\u0432\u0430, 117556"
+          }, 
+          "about": "\u041c\u0430\u0433\u0430\u0437\u0438\u043d", 
+          "phone_number": "tel:88007707021", 
+          "social_medias": {
+               "\u0412\u041a\u043e\u043d\u0442\u0430\u043a\u0442\u0435": "https://vk.com/goldapple_ru", 
+               "YouTube": "https://youtube.com/channel/UC5vsg5-xOIT0N-jilqFSz_w", 
+               "WhatsApp": "https://wa.me/78007707021?text=%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%D1%82%D0%B5!%0A%0A%D0%9F%D0%B8%D1%88%D1%83%20%D0%B8%D0%B7%20%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F%202%D0%93%D0%98%D0%A1.%0A%0A", 
+               "Telegram": "https://t.me/goldapple_ru"
+          }, 
+          "website": "http://link.2gis.com/1.2/305A2C0A/online/20230401/project32/70000001040821951/null/8ro6j86B3AG2A11301IGGGG2237fbl95G6G46C799442982HqEpt7A3B4J74G4IG1JG4IJ4JAoukuv6B0C5911163A1H1JJ12d?http://www.goldapple.ru", 
+          "mail": "www.goldapple.ru"
+     }, 
+     {
+          "name": "Apple", 
+          "occupancy": "\u041f\u0440\u0435\u0434\u0441\u0442\u0430\u0432\u0438\u0442\u0435\u043b\u044c\u0441\u0442\u0432\u043e \u0432 \u0420\u043e\u0441\u0441\u0438\u0438", 
+          "rating": null, 
+          "firm_id": "https://2gis.kz/moscow/firm/4504127921060361", 
+          "address": null, 
+          "about": "\u041f\u0440\u0435\u0434\u0441\u0442\u0430\u0432\u0438\u0442\u0435\u043b\u044c\u0441\u0442\u0432\u043e \u0432 \u0420\u043e\u0441\u0441\u0438\u0438", 
+          "phone_number": null, 
+          "social_medias": {}, 
+          "website": null, 
+          "mail": null
+     }, 
+     {
+          "name": "\u0426\u0438\u0444\u0440\u0443\u0441", 
+          "occupancy": "\u0418\u043d\u0442\u0435\u0440\u043d\u0435\u0442-\u043c\u0430\u0433\u0430\u0437\u0438\u043d \u043c\u043e\u0431\u0438\u043b\u044c\u043d\u044b\u0445 \u0442\u0435\u043b\u0435\u0444\u043e\u043d\u043e\u0432", 
+          "rating": 4.0, 
+          "firm_id": "https://2gis.kz/moscow/firm/4504127908773481", 
+          "address": {
+               "street": {
+                    "text": "2-\u044f \u0424\u0438\u043b\u0451\u0432\u0441\u043a\u0430\u044f \u0443\u043b\u0438\u0446\u0430,15/19", 
+                    "link": "/moscow/geo/4504235282650829"
+               }, 
+               "floor": null, 
+               "city": "\u0424\u0438\u043b\u0451\u0432\u0441\u043a\u0438\u0439 \u043f\u0430\u0440\u043a \u0440\u0430\u0439\u043e\u043d, \u041c\u043e\u0441\u043a\u0432\u0430, 121096"
+          }, 
+          "about": "\u0418\u043d\u0442\u0435\u0440\u043d\u0435\u0442-\u043c\u0430\u0433\u0430\u0437\u0438\u043d \u043c\u043e\u0431\u0438\u043b\u044c\u043d\u044b\u0445 \u0442\u0435\u043b\u0435\u0444\u043e\u043d\u043e\u0432", 
+          "phone_number": "tel:+74956627777", 
+          "social_medias": {
+               "\u0412\u041a\u043e\u043d\u0442\u0430\u043a\u0442\u0435": "https://vk.com/cifrusvk"
+          }, 
+          "website": "http://link.2gis.com/1.2/B9124025/online/20230401/project32/4504127908773481/null/6x4qf56B3AG2761713IGGG25wjlztx95G6G46C79945584H1qEpt7A3B4J74G4IG1J1JI7GJgDAAuv6B0C59891AA9H1HJ3H8?http://www.cifrus.ru", 
+          "mail": "www.cifrus.ru"
+     }, 
+     {
+          "name": "Remont-\u0413\u0430\u0434\u0436\u0435\u0442\u043e\u0432", 
+          "occupancy": "\u0421\u0435\u0440\u0432\u0438\u0441\u043d\u044b\u0439 \u0446\u0435\u043d\u0442\u0440", 
+          "rating": 4.8, 
+          "firm_id": "https://2gis.kz/moscow/firm/70000001037542839", 
+          "address": {
+               "street": {
+                    "text": "\u041b\u0435\u043d\u0438\u043d\u0433\u0440\u0430\u0434\u0441\u043a\u0438\u0439 \u043f\u0440\u043e\u0441\u043f\u0435\u043a\u0442,37\u0411", 
+                    "link": "/moscow/geo/4504235282679913"
+               }, 
+               "floor": "\u041b\u0435\u043d\u0438\u043d\u0433\u0440\u0430\u0434\u0441\u043a\u0438\u0439 \u043f\u0440\u043e\u0441\u043f\u0435\u043a\u0442,37\u0411", 
+               "city": "\u0425\u043e\u0440\u043e\u0448\u0451\u0432\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d, \u041c\u043e\u0441\u043a\u0432\u0430, 125167"
+          }, 
+          "about": "\u0421\u0435\u0440\u0432\u0438\u0441\u043d\u044b\u0439 \u0446\u0435\u043d\u0442\u0440", 
+          "phone_number": "tel:+79299966616", 
+          "social_medias": {
+               "\u0412\u041a\u043e\u043d\u0442\u0430\u043a\u0442\u0435": "https://vk.com/professorapple", 
+               "WhatsApp": "https://wa.me/79299966616?text=%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%D1%82%D0%B5!%0A%0A%D0%9F%D0%B8%D1%88%D1%83%20%D0%B8%D0%B7%20%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F%202%D0%93%D0%98%D0%A1.%0A%0A"
+          }, 
+          "website": "http://link.2gis.com/1.2/5FD8BE65/online/20230401/project32/70000001037542839/null/lgtD2r6B3AG2A11301IGGGG2c2crxu95G6G46C79956386AHqEpt7A3B5J74G4IG1JG4IJ4J3c8ouv6B0C591115A71H1JJ198?http://Professorapple.ru", 
+          "mail": "Professorapple.ru"
+     }, 
+     {
+          "name": "\u0422\u0435\u0445\u043d\u043e\u043f\u0430\u0440\u043a", 
+          "occupancy": "\u0421\u0435\u0442\u044c \u043c\u0430\u0433\u0430\u0437\u0438\u043d\u043e\u0432 \u0431\u044b\u0442\u043e\u0432\u043e\u0439 \u0442\u0435\u0445\u043d\u0438\u043a\u0438 \u0438 \u044d\u043b\u0435\u043a\u0442\u0440\u043e\u043d\u0438\u043a\u0438", 
+          "rating": 3.9, 
+          "firm_id": "https://2gis.kz/moscow/firm/70000001051993034", 
+          "address": {
+               "street": {
+                    "text": "\u041f\u0440\u0435\u0441\u043d\u0435\u043d\u0441\u043a\u0430\u044f \u043d\u0430\u0431\u0435\u0440\u0435\u0436\u043d\u0430\u044f,2", 
+                    "link": "/moscow/geo/4504235282796239"
+               }, 
+               "floor": "\u041f\u0440\u0435\u0441\u043d\u0435\u043d\u0441\u043a\u0430\u044f \u043d\u0430\u0431\u0435\u0440\u0435\u0436\u043d\u0430\u044f,2", 
+               "city": "\u041f\u0440\u0435\u0441\u043d\u0435\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d, \u041c\u043e\u0441\u043a\u0432\u0430, 123112"
+          }, 
+          "about": "\u0421\u0435\u0442\u044c \u043c\u0430\u0433\u0430\u0437\u0438\u043d\u043e\u0432 \u0431\u044b\u0442\u043e\u0432\u043e\u0439 \u0442\u0435\u0445\u043d\u0438\u043a\u0438 \u0438 \u044d\u043b\u0435\u043a\u0442\u0440\u043e\u043d\u0438\u043a\u0438", 
+          "phone_number": "tel:88001005588", 
+          "social_medias": {
+               "\u0412\u041a\u043e\u043d\u0442\u0430\u043a\u0442\u0435": "https://vk.com/technoparkru", 
+               "\u041e\u0434\u043d\u043e\u043a\u043b\u0430\u0441\u0441\u043d\u0438\u043a\u0438": "https://ok.ru/group/technopark", 
+               "Telegram": "https://t.me/technopark_ru"
+          }, 
+          "website": "http://link.2gis.com/1.2/7DD2AE93/online/20230401/project32/70000001051993034/null/76qrA86B3AG2A11301IGGGG23kvDt795G6G46C7994B4065HqEpt7A3B4J74G4IG1JG4IJ4Jt3euuv6B0C5911174B1H1JJ162?http://technopark.ru/?utm_source=2gis&utm_medium=cpc&utm_campaign=2gis&utm_content=msk", 
+          "mail": "technopark.ru"
+     }, 
+     {
+          "name": "VKService", 
+          "occupancy": "\u041a\u043e\u043c\u043f\u0430\u043d\u0438\u044f \u043f\u043e \u0440\u0435\u043c\u043e\u043d\u0442\u0443 \u0446\u0438\u0444\u0440\u043e\u0432\u043e\u0439 \u0442\u0435\u0445\u043d\u0438\u043a\u0438", 
+          "rating": 5.0, 
+          "firm_id": "https://2gis.kz/moscow/firm/70000001039944335", 
+          "address": {
+               "street": {
+                    "text": "\u0423\u043b\u0438\u0446\u0430 \u0411\u0430\u0436\u043e\u0432\u0430,7", 
+                    "link": "/moscow/geo/4504235282630776"
+               }, 
+               "floor": "9 \u043a\u0430\u0431\u0438\u043d\u0435\u0442; \u0446\u043e\u043a\u043e\u043b\u044c\u043d\u044b\u0439 \u044d\u0442\u0430\u0436", 
+               "city": "\u0420\u043e\u0441\u0442\u043e\u043a\u0438\u043d\u043e \u0440\u0430\u0439\u043e\u043d, \u041c\u043e\u0441\u043a\u0432\u0430, 129128"
+          }, 
+          "about": "\u041a\u043e\u043c\u043f\u0430\u043d\u0438\u044f \u043f\u043e \u0440\u0435\u043c\u043e\u043d\u0442\u0443 \u0446\u0438\u0444\u0440\u043e\u0432\u043e\u0439 \u0442\u0435\u0445\u043d\u0438\u043a\u0438", 
+          "phone_number": "tel:+79689683338", 
+          "social_medias": {
+               "WhatsApp": "https://wa.me/79689683338?text=%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%D1%82%D0%B5!%0A%0A%D0%9F%D0%B8%D1%88%D1%83%20%D0%B8%D0%B7%20%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F%202%D0%93%D0%98%D0%A1.%0A%0A", 
+               "Viber": "viber://chat/?number=+79689683338", 
+               "Telegram": "https://t.me/vkservice"
+          }, 
+          "website": "http://link.2gis.com/1.2/FFF5C5B0/online/20230401/project32/70000001039944335/null/3kokk46B3AG2A11301IGGGG2bvjui495G6G46C799465366HqEpt7A3B4J74G4IG1JG4IJ4JfxgEuv6B0C591115CB1H1JJ18g?http://vkservice.ru", 
+          "mail": "vkservice.ru"
+     }, 
+     {
+          "name": "BaltStore", 
+          "occupancy": "\u041c\u043e\u0431\u0438\u043b\u044c\u043d\u044b\u0435 \u0442\u0435\u043b\u0435\u0444\u043e\u043d\u044b", 
+          "rating": 4.8, 
+          "firm_id": "https://2gis.kz/moscow/firm/70000001066525377", 
+          "address": {
+               "street": {
+                    "text": "\u0411\u0430\u0433\u0440\u0430\u0442\u0438\u043e\u043d\u043e\u0432\u0441\u043a\u0438\u0439 \u043f\u0440\u043e\u0435\u0437\u0434,3", 
+                    "link": "/moscow/geo/4504235282799729"
+               }, 
+               "floor": null, 
+               "city": "\u0424\u0438\u043b\u0451\u0432\u0441\u043a\u0438\u0439 \u043f\u0430\u0440\u043a \u0440\u0430\u0439\u043e\u043d, \u041c\u043e\u0441\u043a\u0432\u0430, 121087"
+          }, 
+          "about": "\u041c\u043e\u0431\u0438\u043b\u044c\u043d\u044b\u0435 \u0442\u0435\u043b\u0435\u0444\u043e\u043d\u044b", 
+          "phone_number": "tel:+79114787378", 
+          "social_medias": {
+               "WhatsApp": "https://wa.me/79114787378?text=%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%D1%82%D0%B5!%0A%0A%D0%9F%D0%B8%D1%88%D1%83%20%D0%B8%D0%B7%20%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F%202%D0%93%D0%98%D0%A1.%0A%0A", 
+               "Viber": "viber://chat/?number=+79114787378"
+          }, 
+          "website": "http://link.2gis.com/1.2/CBE12874/online/20230401/project32/70000001066525377/null/lgtD2r6B3AG2A11301IGGGG2c2crxu95G6G46C7995463A8HqEpt7A3B5J74G4IG1JG4IJ4J3c8ouv6B0C591118971H1JJ1A6?http://baltstore.ru", 
+          "mail": "baltstore.ru"
+     }, 
+     {
+          "name": "Yota", 
+          "occupancy": "\u0421\u0430\u043b\u043e\u043d \u0441\u0432\u044f\u0437\u0438", 
+          "rating": null, 
+          "firm_id": "https://2gis.kz/moscow/firm/70000001044898192", 
+          "address": {
+               "street": {
+                    "text": "\u0411\u043e\u043b\u044c\u0448\u0430\u044f \u0421\u0435\u043c\u0451\u043d\u043e\u0432\u0441\u043a\u0430\u044f \u0443\u043b\u0438\u0446\u0430,20", 
+                    "link": "/moscow/geo/70030076169850989"
+               }, 
+               "floor": "\u0411\u043e\u043b\u044c\u0448\u0430\u044f \u0421\u0435\u043c\u0451\u043d\u043e\u0432\u0441\u043a\u0430\u044f \u0443\u043b\u0438\u0446\u0430,20", 
+               "city": "\u0421\u043e\u043a\u043e\u043b\u0438\u043d\u0430\u044f \u0413\u043e\u0440\u0430 \u0440\u0430\u0439\u043e\u043d, \u041c\u043e\u0441\u043a\u0432\u0430, 107023"
+          }, 
+          "about": "\u0421\u0430\u043b\u043e\u043d \u0441\u0432\u044f\u0437\u0438", 
+          "phone_number": "tel:88005500007", 
+          "social_medias": {
+               "\u0412\u041a\u043e\u043d\u0442\u0430\u043a\u0442\u0435": "https://vk.com/yota", 
+               "Telegram": "https://t.me/yotarussia"
+          }, 
+          "website": "http://link.2gis.com/1.2/9724F88C/online/20230401/project32/70000001044898192/null/o42gzn6B3AG2A11301IGGGG28romy195G6G46C7994B91C3HqEpt7A3B4J74G4IG1JG4IJ4Js6ihuv6B0C5911167A1H1JJ171?http://www.yota.ru/voice/order-sim?utm_source=2gis-maps&utm_medium=perfo&utm_campaign=yota_mi_flt_b2c_msk-spb_nov-dec&utm_content=zakaz-online", 
+          "mail": "yota.ru"
+     }, 
+     {
+          "name": "\u0417\u043e\u043b\u043e\u0442\u043e\u0435 \u044f\u0431\u043b\u043e\u043a\u043e", 
+          "occupancy": "\u041f\u0430\u0440\u0444\u044e\u043c\u0435\u0440\u043d\u044b\u0439 \u0441\u0443\u043f\u0435\u0440\u043c\u0430\u0440\u043a\u0435\u0442", 
+          "rating": 4.1, 
+          "firm_id": "https://2gis.kz/moscow/firm/70000001058949035", 
+          "address": {
+               "street": {
+                    "text": "\u0422\u0440\u0443\u0431\u043d\u0430\u044f \u043f\u043b\u043e\u0449\u0430\u0434\u044c,2", 
+                    "link": "/moscow/geo/4504235282758873"
+               }, 
+               "floor": "\u0422\u0440\u0443\u0431\u043d\u0430\u044f \u043f\u043b\u043e\u0449\u0430\u0434\u044c,2", 
+               "city": "\u041c\u0435\u0449\u0430\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d, \u041c\u043e\u0441\u043a\u0432\u0430, 107031"
+          }, 
+          "about": "\u041f\u0430\u0440\u0444\u044e\u043c\u0435\u0440\u043d\u044b\u0439 \u0441\u0443\u043f\u0435\u0440\u043c\u0430\u0440\u043a\u0435\u0442", 
+          "phone_number": null, 
+          "social_medias": {
+               "\u0412\u041a\u043e\u043d\u0442\u0430\u043a\u0442\u0435": "https://vk.com/goldapple_ru", 
+               "YouTube": "https://youtube.com/channel/UC5vsg5-xOIT0N-jilqFSz_w", 
+               "WhatsApp": "https://wa.me/78007707021?text=%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%D1%82%D0%B5!%0A%0A%D0%9F%D0%B8%D1%88%D1%83%20%D0%B8%D0%B7%20%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F%202%D0%93%D0%98%D0%A1.%0A%0A", 
+               "Telegram": "https://t.me/goldapple_ru"
+          }, 
+          "website": "http://link.2gis.com/1.2/7D6135A6/online/20230401/project32/70000001058949035/null/fy3DDD6B3AG2A11301IGGGG2lm6n9n95G6G46C79956A066HqEpt7A3B5J74G4IG1JG4IJ4JhDhruv6B0C591117BB1H1JJ157?http://www.goldapple.ru", 
+          "mail": null
+     }, 
+     {
+          "name": "\u0417\u043e\u043b\u043e\u0442\u043e\u0435 \u044f\u0431\u043b\u043e\u043a\u043e", 
+          "occupancy": "\u041f\u0430\u0440\u0444\u044e\u043c\u0435\u0440\u043d\u044b\u0439 \u0441\u0443\u043f\u0435\u0440\u043c\u0430\u0440\u043a\u0435\u0442", 
+          "rating": 4.0, 
+          "firm_id": "https://2gis.kz/moscow/firm/70000001058881868", 
+          "address": {
+               "street": {
+                    "text": "\u041f\u0430\u0432\u0435\u043b\u0435\u0446\u043a\u0430\u044f \u043f\u043b\u043e\u0449\u0430\u0434\u044c,3", 
+                    "link": "/moscow/geo/70030076192434623"
+               }, 
+               "floor": "\u041f\u0430\u0432\u0435\u043b\u0435\u0446\u043a\u0430\u044f \u043f\u043b\u043e\u0449\u0430\u0434\u044c,3", 
+               "city": "\u0417\u0430\u043c\u043e\u0441\u043a\u0432\u043e\u0440\u0435\u0447\u044c\u0435 \u0440\u0430\u0439\u043e\u043d, \u041c\u043e\u0441\u043a\u0432\u0430, 115114"
+          }, 
+          "about": "\u041f\u0430\u0440\u0444\u044e\u043c\u0435\u0440\u043d\u044b\u0439 \u0441\u0443\u043f\u0435\u0440\u043c\u0430\u0440\u043a\u0435\u0442", 
+          "phone_number": "tel:88007707021", 
+          "social_medias": {
+               "\u0412\u041a\u043e\u043d\u0442\u0430\u043a\u0442\u0435": "https://vk.com/goldapple_ru", 
+               "YouTube": "https://youtube.com/channel/UC5vsg5-xOIT0N-jilqFSz_w", 
+               "WhatsApp": "https://wa.me/78007707021?text=%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%D1%82%D0%B5!%0A%0A%D0%9F%D0%B8%D1%88%D1%83%20%D0%B8%D0%B7%20%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F%202%D0%93%D0%98%D0%A1.%0A%0A", 
+               "Telegram": "https://t.me/goldapple_ru"
+          }, 
+          "website": "http://link.2gis.com/1.2/90896676/online/20230401/project32/70000001058881868/null/BF3m3x6B3AG2A11301IGGGG2v1t9xg95G6G46C7996A2899HqEpt7A3B6J74G4IG1JG4IJ4JtiDduv6B0C591117BA1H1JJ177?http://www.goldapple.ru", 
+          "mail": "www.goldapple.ru"
+     }, 
+     {
+          "name": "\u0417\u043e\u043b\u043e\u0442\u043e\u0435 \u044f\u0431\u043b\u043e\u043a\u043e", 
+          "occupancy": "\u041f\u0430\u0440\u0444\u044e\u043c\u0435\u0440\u043d\u044b\u0439 \u0441\u0443\u043f\u0435\u0440\u043c\u0430\u0440\u043a\u0435\u0442", 
+          "rating": 3.9, 
+          "firm_id": "https://2gis.kz/moscow/firm/70000001027636084", 
+          "address": {
+               "street": {
+                    "text": "\u041f\u0440\u0435\u0441\u043d\u0435\u043d\u0441\u043a\u0430\u044f \u043d\u0430\u0431\u0435\u0440\u0435\u0436\u043d\u0430\u044f,2", 
+                    "link": "/moscow/geo/4504235282796239"
+               }, 
+               "floor": "\u041f\u0440\u0435\u0441\u043d\u0435\u043d\u0441\u043a\u0430\u044f \u043d\u0430\u0431\u0435\u0440\u0435\u0436\u043d\u0430\u044f,2", 
+               "city": "\u041f\u0440\u0435\u0441\u043d\u0435\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d, \u041c\u043e\u0441\u043a\u0432\u0430, 123112"
+          }, 
+          "about": "\u041f\u0430\u0440\u0444\u044e\u043c\u0435\u0440\u043d\u044b\u0439 \u0441\u0443\u043f\u0435\u0440\u043c\u0430\u0440\u043a\u0435\u0442", 
+          "phone_number": "tel:88007707021", 
+          "social_medias": {
+               "\u0412\u041a\u043e\u043d\u0442\u0430\u043a\u0442\u0435": "https://vk.com/goldapple_ru", 
+               "YouTube": "https://youtube.com/channel/UC5vsg5-xOIT0N-jilqFSz_w", 
+               "WhatsApp": "https://wa.me/78007707021?text=%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%D1%82%D0%B5!%0A%0A%D0%9F%D0%B8%D1%88%D1%83%20%D0%B8%D0%B7%20%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F%202%D0%93%D0%98%D0%A1.%0A%0A", 
+               "Telegram": "https://t.me/goldapple_ru"
+          }, 
+          "website": "http://link.2gis.com/1.2/E78F5AF1/online/20230401/project32/70000001027636084/null/Ami5E86B3AG2A11301IGGGG2edAfnk95G6G46C7995570B5HqEpt7A3B5J74G4IG1JG4IJ4Jpqcfuv6B0C591114A81H1JJ1c6?http://www.goldapple.ru", 
+          "mail": "www.goldapple.ru"
+     }, 
+     {
+          "name": "\u0417\u043e\u043b\u043e\u0442\u043e\u0435 \u044f\u0431\u043b\u043e\u043a\u043e", 
+          "occupancy": "\u041f\u0430\u0440\u0444\u044e\u043c\u0435\u0440\u043d\u044b\u0439 \u0441\u0443\u043f\u0435\u0440\u043c\u0430\u0440\u043a\u0435\u0442", 
+          "rating": 3.1, 
+          "firm_id": "https://2gis.kz/moscow/firm/70000001049838821", 
+          "address": {
+               "street": {
+                    "text": "\u041f\u0440\u043e\u0441\u043f\u0435\u043a\u0442 \u041c\u0438\u0440\u0430,211", 
+                    "link": "/moscow/geo/4504235283007809"
+               }, 
+               "floor": "\u041f\u0440\u043e\u0441\u043f\u0435\u043a\u0442 \u041c\u0438\u0440\u0430,211", 
+               "city": "\u0421\u0432\u0438\u0431\u043b\u043e\u0432\u043e \u0440\u0430\u0439\u043e\u043d, \u041c\u043e\u0441\u043a\u0432\u0430, 129226"
+          }, 
+          "about": "\u041f\u0430\u0440\u0444\u044e\u043c\u0435\u0440\u043d\u044b\u0439 \u0441\u0443\u043f\u0435\u0440\u043c\u0430\u0440\u043a\u0435\u0442", 
+          "phone_number": "tel:88007707021", 
+          "social_medias": {
+               "\u0412\u041a\u043e\u043d\u0442\u0430\u043a\u0442\u0435": "https://vk.com/goldapple_ru", 
+               "YouTube": "https://youtube.com/channel/UC5vsg5-xOIT0N-jilqFSz_w", 
+               "WhatsApp": "https://wa.me/78007707021?text=%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%D1%82%D0%B5!%0A%0A%D0%9F%D0%B8%D1%88%D1%83%20%D0%B8%D0%B7%20%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F%202%D0%93%D0%98%D0%A1.%0A%0A", 
+               "Telegram": "https://t.me/goldapple_ru"
+          }, 
+          "website": "http://link.2gis.com/1.2/72729630/online/20230401/project32/70000001049838821/null/4m69db6B3AG2A11301IGGGG2kzlmfy95G6G46C799659852HqEpt7A3B6J74G4IG1JG4IJ4J8wDjuv6B0C591116CA1H1JJ1cd?http://www.goldapple.ru", 
+          "mail": "www.goldapple.ru"
+     }, 
+     {
+          "name": "Apple Box", 
+          "occupancy": "\u041c\u0430\u0433\u0430\u0437\u0438\u043d", 
+          "rating": 3.4, 
+          "firm_id": "https://2gis.kz/moscow/firm/70000001040821951", 
+          "address": {
+               "street": {
+                    "text": "\u0427\u043e\u043d\u0433\u0430\u0440\u0441\u043a\u0438\u0439 \u0431\u0443\u043b\u044c\u0432\u0430\u0440,7", 
+                    "link": "/moscow/geo/70030076163255977"
+               }, 
+               "floor": "\u0427\u043e\u043d\u0433\u0430\u0440\u0441\u043a\u0438\u0439 \u0431\u0443\u043b\u044c\u0432\u0430\u0440,7", 
+               "city": "\u041d\u0430\u0433\u043e\u0440\u043d\u044b\u0439 \u0440\u0430\u0439\u043e\u043d, \u041c\u043e\u0441\u043a\u0432\u0430, 117556"
+          }, 
+          "about": "\u041c\u0430\u0433\u0430\u0437\u0438\u043d", 
+          "phone_number": "tel:88007707021", 
+          "social_medias": {
+               "\u0412\u041a\u043e\u043d\u0442\u0430\u043a\u0442\u0435": "https://vk.com/goldapple_ru", 
+               "YouTube": "https://youtube.com/channel/UC5vsg5-xOIT0N-jilqFSz_w", 
+               "WhatsApp": "https://wa.me/78007707021?text=%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%D1%82%D0%B5!%0A%0A%D0%9F%D0%B8%D1%88%D1%83%20%D0%B8%D0%B7%20%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F%202%D0%93%D0%98%D0%A1.%0A%0A", 
+               "Telegram": "https://t.me/goldapple_ru"
+          }, 
+          "website": "http://link.2gis.com/1.2/305A2C0A/online/20230401/project32/70000001040821951/null/t5zgyg6B3AG2A11301IGGGG2dkn8cA95G6G46C799542982HqEpt7A3B5J74G4IG1JG4IJ4Jg2tuuv6B0C5911163A1H1JJ159?http://www.goldapple.ru", 
+          "mail": "www.goldapple.ru"
+     }, 
+     {
+          "name": "Apple", 
+          "occupancy": "\u041f\u0440\u0435\u0434\u0441\u0442\u0430\u0432\u0438\u0442\u0435\u043b\u044c\u0441\u0442\u0432\u043e \u0432 \u0420\u043e\u0441\u0441\u0438\u0438", 
+          "rating": null, 
+          "firm_id": "https://2gis.kz/moscow/firm/4504127921060361", 
+          "address": null, 
+          "about": "\u041f\u0440\u0435\u0434\u0441\u0442\u0430\u0432\u0438\u0442\u0435\u043b\u044c\u0441\u0442\u0432\u043e \u0432 \u0420\u043e\u0441\u0441\u0438\u0438", 
+          "phone_number": null, 
+          "social_medias": {}, 
+          "website": null, 
+          "mail": null
+     }, 
+     {
+          "name": "\u0426\u0438\u0444\u0440\u0443\u0441", 
+          "occupancy": "\u0418\u043d\u0442\u0435\u0440\u043d\u0435\u0442-\u043c\u0430\u0433\u0430\u0437\u0438\u043d \u043c\u043e\u0431\u0438\u043b\u044c\u043d\u044b\u0445 \u0442\u0435\u043b\u0435\u0444\u043e\u043d\u043e\u0432", 
+          "rating": 4.0, 
+          "firm_id": "https://2gis.kz/moscow/firm/4504127908773481", 
+          "address": {
+               "street": {
+                    "text": "2-\u044f \u0424\u0438\u043b\u0451\u0432\u0441\u043a\u0430\u044f \u0443\u043b\u0438\u0446\u0430,15/19", 
+                    "link": "/moscow/geo/4504235282650829"
+               }, 
+               "floor": null, 
+               "city": "\u0424\u0438\u043b\u0451\u0432\u0441\u043a\u0438\u0439 \u043f\u0430\u0440\u043a \u0440\u0430\u0439\u043e\u043d, \u041c\u043e\u0441\u043a\u0432\u0430, 121096"
+          }, 
+          "about": "\u0418\u043d\u0442\u0435\u0440\u043d\u0435\u0442-\u043c\u0430\u0433\u0430\u0437\u0438\u043d \u043c\u043e\u0431\u0438\u043b\u044c\u043d\u044b\u0445 \u0442\u0435\u043b\u0435\u0444\u043e\u043d\u043e\u0432", 
+          "phone_number": "tel:+74956627777", 
+          "social_medias": {
+               "\u0412\u041a\u043e\u043d\u0442\u0430\u043a\u0442\u0435": "https://vk.com/cifrusvk"
+          }, 
+          "website": "http://link.2gis.com/1.2/B9124025/online/20230401/project32/4504127908773481/null/fy3DDD6B3AG2761713IGGG2dlm6n9n95G6G46C79965584H1qEpt7A3B6J74G4IG1J1JI7GJhDhruv6B0C59891AA9H1HJ3H4?http://www.cifrus.ru", 
+          "mail": "www.cifrus.ru"
+     }, 
+     {
+          "name": "Remont-\u0413\u0430\u0434\u0436\u0435\u0442\u043e\u0432", 
+          "occupancy": "\u0421\u0435\u0440\u0432\u0438\u0441\u043d\u044b\u0439 \u0446\u0435\u043d\u0442\u0440", 
+          "rating": 4.8, 
+          "firm_id": "https://2gis.kz/moscow/firm/70000001037542839", 
+          "address": {
+               "street": {
+                    "text": "\u041b\u0435\u043d\u0438\u043d\u0433\u0440\u0430\u0434\u0441\u043a\u0438\u0439 \u043f\u0440\u043e\u0441\u043f\u0435\u043a\u0442,37\u0411", 
+                    "link": "/moscow/geo/4504235282679913"
+               }, 
+               "floor": "\u041b\u0435\u043d\u0438\u043d\u0433\u0440\u0430\u0434\u0441\u043a\u0438\u0439 \u043f\u0440\u043e\u0441\u043f\u0435\u043a\u0442,37\u0411", 
+               "city": "\u0425\u043e\u0440\u043e\u0448\u0451\u0432\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d, \u041c\u043e\u0441\u043a\u0432\u0430, 125167"
+          }, 
+          "about": "\u0421\u0435\u0440\u0432\u0438\u0441\u043d\u044b\u0439 \u0446\u0435\u043d\u0442\u0440", 
+          "phone_number": "tel:+79299966616", 
+          "social_medias": {
+               "\u0412\u041a\u043e\u043d\u0442\u0430\u043a\u0442\u0435": "https://vk.com/professorapple", 
+               "WhatsApp": "https://wa.me/79299966616?text=%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%D1%82%D0%B5!%0A%0A%D0%9F%D0%B8%D1%88%D1%83%20%D0%B8%D0%B7%20%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F%202%D0%93%D0%98%D0%A1.%0A%0A"
+          }, 
+          "website": "http://link.2gis.com/1.2/5FD8BE65/online/20230401/project32/70000001037542839/null/fy3DDD6B3AG2A11301IGGGG2lm6n9n95G6G46C79956386AHqEpt7A3B5J74G4IG1JG4IJ4JhDhruv6B0C591115A71H1JJ1cA?http://Professorapple.ru", 
+          "mail": "Professorapple.ru"
+     }, 
+     {
+          "name": "\u0422\u0435\u0445\u043d\u043e\u043f\u0430\u0440\u043a", 
+          "occupancy": "\u0421\u0435\u0442\u044c \u043c\u0430\u0433\u0430\u0437\u0438\u043d\u043e\u0432 \u0431\u044b\u0442\u043e\u0432\u043e\u0439 \u0442\u0435\u0445\u043d\u0438\u043a\u0438 \u0438 \u044d\u043b\u0435\u043a\u0442\u0440\u043e\u043d\u0438\u043a\u0438", 
+          "rating": 3.9, 
+          "firm_id": "https://2gis.kz/moscow/firm/70000001051993034", 
+          "address": {
+               "street": {
+                    "text": "\u041f\u0440\u0435\u0441\u043d\u0435\u043d\u0441\u043a\u0430\u044f \u043d\u0430\u0431\u0435\u0440\u0435\u0436\u043d\u0430\u044f,2", 
+                    "link": "/moscow/geo/4504235282796239"
+               }, 
+               "floor": "\u041f\u0440\u0435\u0441\u043d\u0435\u043d\u0441\u043a\u0430\u044f \u043d\u0430\u0431\u0435\u0440\u0435\u0436\u043d\u0430\u044f,2", 
+               "city": "\u041f\u0440\u0435\u0441\u043d\u0435\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d, \u041c\u043e\u0441\u043a\u0432\u0430, 123112"
+          }, 
+          "about": "\u0421\u0435\u0442\u044c \u043c\u0430\u0433\u0430\u0437\u0438\u043d\u043e\u0432 \u0431\u044b\u0442\u043e\u0432\u043e\u0439 \u0442\u0435\u0445\u043d\u0438\u043a\u0438 \u0438 \u044d\u043b\u0435\u043a\u0442\u0440\u043e\u043d\u0438\u043a\u0438", 
+          "phone_number": "tel:88001005588", 
+          "social_medias": {
+               "\u0412\u041a\u043e\u043d\u0442\u0430\u043a\u0442\u0435": "https://vk.com/technoparkru", 
+               "\u041e\u0434\u043d\u043e\u043a\u043b\u0430\u0441\u0441\u043d\u0438\u043a\u0438": "https://ok.ru/group/technopark", 
+               "Telegram": "https://t.me/technopark_ru"
+          }, 
+          "website": "http://link.2gis.com/1.2/7DD2AE93/online/20230401/project32/70000001051993034/null/drp4rk6B3AG2A11301IGGGG2swDrh195G6G46C7995B4065HqEpt7A3B5J74G4IG1JG4IJ4Jw8gquv6B0C5911174B1H1JJ1bf?http://technopark.ru/?utm_source=2gis&utm_medium=cpc&utm_campaign=2gis&utm_content=msk", 
+          "mail": "technopark.ru"
+     }, 
+     {
+          "name": "VKService", 
+          "occupancy": "\u041a\u043e\u043c\u043f\u0430\u043d\u0438\u044f \u043f\u043e \u0440\u0435\u043c\u043e\u043d\u0442\u0443 \u0446\u0438\u0444\u0440\u043e\u0432\u043e\u0439 \u0442\u0435\u0445\u043d\u0438\u043a\u0438", 
+          "rating": 5.0, 
+          "firm_id": "https://2gis.kz/moscow/firm/70000001039944335", 
+          "address": {
+               "street": {
+                    "text": "\u0423\u043b\u0438\u0446\u0430 \u0411\u0430\u0436\u043e\u0432\u0430,7", 
+                    "link": "/moscow/geo/4504235282630776"
+               }, 
+               "floor": "9 \u043a\u0430\u0431\u0438\u043d\u0435\u0442; \u0446\u043e\u043a\u043e\u043b\u044c\u043d\u044b\u0439 \u044d\u0442\u0430\u0436", 
+               "city": "\u0420\u043e\u0441\u0442\u043e\u043a\u0438\u043d\u043e \u0440\u0430\u0439\u043e\u043d, \u041c\u043e\u0441\u043a\u0432\u0430, 129128"
+          }, 
+          "about": "\u041a\u043e\u043c\u043f\u0430\u043d\u0438\u044f \u043f\u043e \u0440\u0435\u043c\u043e\u043d\u0442\u0443 \u0446\u0438\u0444\u0440\u043e\u0432\u043e\u0439 \u0442\u0435\u0445\u043d\u0438\u043a\u0438", 
+          "phone_number": "tel:+79689683338", 
+          "social_medias": {
+               "WhatsApp": "https://wa.me/79689683338?text=%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%D1%82%D0%B5!%0A%0A%D0%9F%D0%B8%D1%88%D1%83%20%D0%B8%D0%B7%20%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F%202%D0%93%D0%98%D0%A1.%0A%0A", 
+               "Viber": "viber://chat/?number=+79689683338", 
+               "Telegram": "https://t.me/vkservice"
+          }, 
+          "website": "http://link.2gis.com/1.2/FFF5C5B0/online/20230401/project32/70000001039944335/null/o42gzn6B3AG2A11301IGGGG28romy195G6G46C799665366HqEpt7A3B6J74G4IG1JG4IJ4Js6ihuv6B0C591115CB1H1JJ1g5?http://vkservice.ru", 
+          "mail": "vkservice.ru"
+     }, 
+     {
+          "name": "BaltStore", 
+          "occupancy": "\u041c\u043e\u0431\u0438\u043b\u044c\u043d\u044b\u0435 \u0442\u0435\u043b\u0435\u0444\u043e\u043d\u044b", 
+          "rating": 4.8, 
+          "firm_id": "https://2gis.kz/moscow/firm/70000001066525377", 
+          "address": {
+               "street": {
+                    "text": "\u0411\u0430\u0433\u0440\u0430\u0442\u0438\u043e\u043d\u043e\u0432\u0441\u043a\u0438\u0439 \u043f\u0440\u043e\u0435\u0437\u0434,3", 
+                    "link": "/moscow/geo/4504235282799729"
+               }, 
+               "floor": null, 
+               "city": "\u0424\u0438\u043b\u0451\u0432\u0441\u043a\u0438\u0439 \u043f\u0430\u0440\u043a \u0440\u0430\u0439\u043e\u043d, \u041c\u043e\u0441\u043a\u0432\u0430, 121087"
+          }, 
+          "about": "\u041c\u043e\u0431\u0438\u043b\u044c\u043d\u044b\u0435 \u0442\u0435\u043b\u0435\u0444\u043e\u043d\u044b", 
+          "phone_number": "tel:+79114787378", 
+          "social_medias": {
+               "WhatsApp": "https://wa.me/79114787378?text=%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%D1%82%D0%B5!%0A%0A%D0%9F%D0%B8%D1%88%D1%83%20%D0%B8%D0%B7%20%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F%202%D0%93%D0%98%D0%A1.%0A%0A", 
+               "Viber": "viber://chat/?number=+79114787378"
+          }, 
+          "website": "http://link.2gis.com/1.2/CBE12874/online/20230401/project32/70000001066525377/null/q597946B3AG2A11301IGGGG2bxci4k95G6G46C7995463A8HqEpt7A3B5J74G4IG1JG4IJ4JfD56uv6B0C591118971H1JJ191?http://baltstore.ru", 
+          "mail": "baltstore.ru"
+     }, 
+     {
+          "name": "Yota", 
+          "occupancy": "\u0421\u0430\u043b\u043e\u043d \u0441\u0432\u044f\u0437\u0438", 
+          "rating": null, 
+          "firm_id": "https://2gis.kz/moscow/firm/70000001044898192", 
+          "address": {
+               "street": {
+                    "text": "\u0411\u043e\u043b\u044c\u0448\u0430\u044f \u0421\u0435\u043c\u0451\u043d\u043e\u0432\u0441\u043a\u0430\u044f \u0443\u043b\u0438\u0446\u0430,20", 
+                    "link": "/moscow/geo/70030076169850989"
+               }, 
+               "floor": "\u0411\u043e\u043b\u044c\u0448\u0430\u044f \u0421\u0435\u043c\u0451\u043d\u043e\u0432\u0441\u043a\u0430\u044f \u0443\u043b\u0438\u0446\u0430,20", 
+               "city": "\u0421\u043e\u043a\u043e\u043b\u0438\u043d\u0430\u044f \u0413\u043e\u0440\u0430 \u0440\u0430\u0439\u043e\u043d, \u041c\u043e\u0441\u043a\u0432\u0430, 107023"
+          }, 
+          "about": "\u0421\u0430\u043b\u043e\u043d \u0441\u0432\u044f\u0437\u0438", 
+          "phone_number": "tel:88005500007", 
+          "social_medias": {
+               "\u0412\u041a\u043e\u043d\u0442\u0430\u043a\u0442\u0435": "https://vk.com/yota", 
+               "Telegram": "https://t.me/yotarussia"
+          }, 
+          "website": "http://link.2gis.com/1.2/9724F88C/online/20230401/project32/70000001044898192/null/vht3zh6B3AG2A11301IGGGG2fzlww995G6G46C7996B91C3HqEpt7A3B6J74G4IG1JG4IJ4Jcd2juv6B0C5911167A1H1JJ123?http://www.yota.ru/voice/order-sim?utm_source=2gis-maps&utm_medium=perfo&utm_campaign=yota_mi_flt_b2c_msk-spb_nov-dec&utm_content=zakaz-online", 
+          "mail": "yota.ru"
+     }, 
+     {
+          "name": "LCD-Pro", 
+          "occupancy": "\u0421\u0435\u0440\u0432\u0438\u0441\u043d\u044b\u0439 \u0446\u0435\u043d\u0442\u0440 \u043f\u043e \u0440\u0435\u043c\u043e\u043d\u0442\u0443, \u043f\u0440\u043e\u0434\u0430\u0436\u0435 \u0438 \u0441\u043a\u0443\u043f\u043a\u0435 \u043b\u044e\u0431\u043e\u0439 \u0442\u0435\u0445\u043d\u0438\u043a\u0438", 
+          "rating": 4.8, 
+          "firm_id": "https://2gis.kz/moscow/firm/70000001052563983", 
+          "address": {
+               "street": {
+                    "text": "\u0423\u043b\u0438\u0446\u0430 \u041d\u043e\u0432\u044b\u0439 \u0410\u0440\u0431\u0430\u0442,7 \u0441\u04421", 
+                    "link": "/moscow/geo/4504235282750444"
+               }, 
+               "floor": "400 \u043e\u0444\u0438\u0441; 4 \u044d\u0442\u0430\u0436", 
+               "city": "\u0410\u0440\u0431\u0430\u0442 \u0440\u0430\u0439\u043e\u043d, \u041c\u043e\u0441\u043a\u0432\u0430, 119019"
+          }, 
+          "about": "\u0421\u0435\u0440\u0432\u0438\u0441\u043d\u044b\u0439 \u0446\u0435\u043d\u0442\u0440 \u043f\u043e \u0440\u0435\u043c\u043e\u043d\u0442\u0443, \u043f\u0440\u043e\u0434\u0430\u0436\u0435 \u0438 \u0441\u043a\u0443\u043f\u043a\u0435 \u043b\u044e\u0431\u043e\u0439 \u0442\u0435\u0445\u043d\u0438\u043a\u0438", 
+          "phone_number": "tel:+79250305030", 
+          "social_medias": {
+               "WhatsApp": "https://wa.me/79250305030?text=%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%D1%82%D0%B5!%0A%0A%D0%9F%D0%B8%D1%88%D1%83%20%D0%B8%D0%B7%20%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F%202%D0%93%D0%98%D0%A1.%0A%0A"
+          }, 
+          "website": "http://link.2gis.com/1.2/0329101A/online/20230401/project32/70000001052563983/null/76qrA86B3AG2A11301IGGGG23kvDt795G6G46C7996849B4HqEpt7A3B6J74G4IG1JG4IJ4Jt3euuv6B0C591117571H1JJ198?http://storedima.ru", 
+          "mail": "storedima.ru"
+     }, 
+     {
+          "name": "Save & Sale", 
+          "occupancy": "\u0422\u043e\u0440\u0433\u043e\u0432\u043e-\u0441\u0435\u0440\u0432\u0438\u0441\u043d\u0430\u044f \u043a\u043e\u043c\u043f\u0430\u043d\u0438\u044f", 
+          "rating": 4.9, 
+          "firm_id": "https://2gis.kz/moscow/firm/4504128908764658", 
+          "address": {
+               "street": {
+                    "text": "\u041f\u0440\u043e\u0441\u043f\u0435\u043a\u0442 \u0411\u0443\u0434\u0451\u043d\u043d\u043e\u0433\u043e,53 \u0441\u04422", 
+                    "link": "/moscow/geo/4504235282836608"
+               }, 
+               "floor": "\u041f\u0440\u043e\u0441\u043f\u0435\u043a\u0442 \u0411\u0443\u0434\u0451\u043d\u043d\u043e\u0433\u043e,53 \u0441\u04422", 
+               "city": "\u0421\u043e\u043a\u043e\u043b\u0438\u043d\u0430\u044f \u0413\u043e\u0440\u0430 \u0440\u0430\u0439\u043e\u043d, \u041c\u043e\u0441\u043a\u0432\u0430, 105275"
+          }, 
+          "about": "\u0422\u043e\u0440\u0433\u043e\u0432\u043e-\u0441\u0435\u0440\u0432\u0438\u0441\u043d\u0430\u044f \u043a\u043e\u043c\u043f\u0430\u043d\u0438\u044f", 
+          "phone_number": "tel:88007077576", 
+          "social_medias": {
+               "\u0412\u041a\u043e\u043d\u0442\u0430\u043a\u0442\u0435": "https://vk.com/savensale", 
+               "Telegram": "https://t.me/svnslbot"
+          }, 
+          "website": "http://link.2gis.com/1.2/9CC73B65/online/20230401/project32/4504128908764658/null/drp4rk6B3AG2761713IGGG25swDrh195G6G46C7997675BH1qEpt7A3B7J74G4IG1J1JI7GJw8gquv6B0C59991AA8H1HJ3H3?http://savensale.ru/?utm_source=2gis&utm_medium=ads&utm_campaign=2gis", 
+          "mail": "savensale.ru"
+     }, 
+     {
+          "name": "\u0424\u043e\u0440\u0442\u0443\u043d\u043029", 
+          "occupancy": "\u041c\u0430\u0433\u0430\u0437\u0438\u043d \u043c\u043e\u0431\u0438\u043b\u044c\u043d\u043e\u0439 \u044d\u043b\u0435\u043a\u0442\u0440\u043e\u043d\u0438\u043a\u0438", 
+          "rating": 5.0, 
+          "firm_id": "https://2gis.kz/moscow/firm/70000001064955788", 
+          "address": {
+               "street": {
+                    "text": "\u0411\u0430\u0433\u0440\u0430\u0442\u0438\u043e\u043d\u043e\u0432\u0441\u043a\u0438\u0439 \u043f\u0440\u043e\u0435\u0437\u0434,7 \u043a1", 
+                    "link": "/moscow/geo/4504235313028577"
+               }, 
+               "floor": "\u0411\u0430\u0433\u0440\u0430\u0442\u0438\u043e\u043d\u043e\u0432\u0441\u043a\u0438\u0439 \u043f\u0440\u043e\u0435\u0437\u0434,7 \u043a1", 
+               "city": "\u0424\u0438\u043b\u0451\u0432\u0441\u043a\u0438\u0439 \u043f\u0430\u0440\u043a \u0440\u0430\u0439\u043e\u043d, \u041c\u043e\u0441\u043a\u0432\u0430, 121087"
+          }, 
+          "about": "\u041c\u0430\u0433\u0430\u0437\u0438\u043d \u043c\u043e\u0431\u0438\u043b\u044c\u043d\u043e\u0439 \u044d\u043b\u0435\u043a\u0442\u0440\u043e\u043d\u0438\u043a\u0438", 
+          "phone_number": "tel:+74999951855", 
+          "social_medias": {
+               "\u0412\u041a\u043e\u043d\u0442\u0430\u043a\u0442\u0435": "https://vk.com/shop_fortuna29", 
+               "WhatsApp": "https://wa.me/79032813959?text=%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%D1%82%D0%B5!%0A%0A%D0%9F%D0%B8%D1%88%D1%83%20%D0%B8%D0%B7%20%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F%202%D0%93%D0%98%D0%A1.%0A%0A", 
+               "Telegram": "https://t.me/shop_fortuna29"
+          }, 
+          "website": "https://vk.com/shop_fortuna29", 
+          "mail": null
+     }, 
+     {
+          "name": "IVEstore", 
+          "occupancy": "\u0421\u0435\u0442\u044c \u0441\u0435\u0440\u0432\u0438\u0441\u043d\u044b\u0445 \u0446\u0435\u043d\u0442\u0440\u043e\u0432", 
+          "rating": 5.0, 
+          "firm_id": "https://2gis.kz/moscow/firm/70000001025563922", 
+          "address": {
+               "street": {
+                    "text": "\u041c\u0430\u0440\u043a\u0441\u0438\u0441\u0442\u0441\u043a\u0430\u044f \u0443\u043b\u0438\u0446\u0430,38", 
+                    "link": "/moscow/geo/4504235282820174"
+               }, 
+               "floor": "-1 \u044d\u0442\u0430\u0436; \u043e\u043a\u043e\u043b\u043e \u0441\u0443\u043f\u0435\u0440\u043c\u0430\u0440\u043a\u0435\u0442\u0430 \u0410\u0437\u0431\u0443\u043a\u0430 \u0432\u043a\u0443\u0441\u0430", 
+               "city": "\u0422\u0430\u0433\u0430\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d, \u041c\u043e\u0441\u043a\u0432\u0430, 109147"
+          }, 
+          "about": "\u0421\u0435\u0442\u044c \u0441\u0435\u0440\u0432\u0438\u0441\u043d\u044b\u0445 \u0446\u0435\u043d\u0442\u0440\u043e\u0432", 
+          "phone_number": "tel:+74994907791", 
+          "social_medias": {
+               "\u0412\u041a\u043e\u043d\u0442\u0430\u043a\u0442\u0435": "https://vk.com/ivestore", 
+               "YouTube": "https://youtube.com/channel/UCC3VsKO3jyaS3CnQxTq_qpw", 
+               "WhatsApp": "https://wa.me/74991124966?text=%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%D1%82%D0%B5!%0A%0A%D0%9F%D0%B8%D1%88%D1%83%20%D0%B8%D0%B7%20%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F%202%D0%93%D0%98%D0%A1.%0A%0A"
+          }, 
+          "website": "http://link.2gis.com/1.2/7E3C7A1F/online/20230401/project32/70000001025563922/null/wAfyAD6B3AG2A11301IGGGG2e4zDdg95G6G46C799684953HqEpt7A3B6J74G4IG1JG4IJ4Jqbd9uv6B0C591114871H1JJ1A9?http://ivestore.ru", 
+          "mail": "ivestore.ru"
+     }, 
+     {
+          "name": "Best-magazin.com", 
+          "occupancy": "\u0418\u043d\u0442\u0435\u0440\u043d\u0435\u0442-\u043c\u0430\u0433\u0430\u0437\u0438\u043d", 
+          "rating": 5.0, 
+          "firm_id": "https://2gis.kz/moscow/firm/70000001022803416", 
+          "address": {
+               "street": {
+                    "text": "\u0423\u043b\u0438\u0446\u0430 \u0411\u0430\u0440\u043a\u043b\u0430\u044f,8", 
+                    "link": "/moscow/geo/4504235282688295"
+               }, 
+               "floor": "\u0423\u043b\u0438\u0446\u0430 \u0411\u0430\u0440\u043a\u043b\u0430\u044f,8", 
+               "city": "\u0424\u0438\u043b\u0451\u0432\u0441\u043a\u0438\u0439 \u043f\u0430\u0440\u043a \u0440\u0430\u0439\u043e\u043d, \u041c\u043e\u0441\u043a\u0432\u0430, 121087"
+          }, 
+          "about": "\u0418\u043d\u0442\u0435\u0440\u043d\u0435\u0442-\u043c\u0430\u0433\u0430\u0437\u0438\u043d", 
+          "phone_number": "tel:+74994040603", 
+          "social_medias": {
+               "\u0412\u041a\u043e\u043d\u0442\u0430\u043a\u0442\u0435": "https://vk.com/bestmagazincom", 
+               "YouTube": "https://youtube.com/channel/UCEnDre9lpeBnw3On4Ng2SIA", 
+               "WhatsApp": "https://wa.me/79778082499?text=%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%D1%82%D0%B5!%0A%0A%D0%9F%D0%B8%D1%88%D1%83%20%D0%B8%D0%B7%20%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F%202%D0%93%D0%98%D0%A1.%0A%0A", 
+               "Telegram": "https://t.me/bestmagazin"
+          }, 
+          "website": "http://link.2gis.com/1.2/8A867724/online/20230401/project32/70000001022803416/null/76qrA86B3AG2A11301IGGGG23kvDt795G6G46C799624447HqEpt7A3B6J74G4IG1JG4IJ4Jt3euuv6B0C5911145A1H1JJ146?http://best-magazin.com", 
+          "mail": "best-magazin.com"
+     }, 
+     {
+          "name": "iBroService", 
+          "occupancy": "\u0421\u0435\u0442\u044c \u0441\u0435\u0440\u0432\u0438\u0441\u043d\u044b\u0445 \u0446\u0435\u043d\u0442\u0440\u043e\u0432", 
+          "rating": 4.8, 
+          "firm_id": "https://2gis.kz/moscow/firm/70000001020819583", 
+          "address": {
+               "street": {
+                    "text": "\u041e\u043a\u0441\u043a\u0430\u044f \u0443\u043b\u0438\u0446\u0430,3 \u043a1", 
+                    "link": "/moscow/geo/4504235282554842"
+               }, 
+               "floor": "1 \u044d\u0442\u0430\u0436", 
+               "city": "\u0420\u044f\u0437\u0430\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d, \u041c\u043e\u0441\u043a\u0432\u0430, 109117"
+          }, 
+          "about": "\u0421\u0435\u0442\u044c \u0441\u0435\u0440\u0432\u0438\u0441\u043d\u044b\u0445 \u0446\u0435\u043d\u0442\u0440\u043e\u0432", 
+          "phone_number": "tel:+74991130192", 
+          "social_medias": {
+               "\u0412\u041a\u043e\u043d\u0442\u0430\u043a\u0442\u0435": "https://vk.com/ibroservice", 
+               "WhatsApp": "https://wa.me/79885591883?text=%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%D1%82%D0%B5!%0A%0A%D0%9F%D0%B8%D1%88%D1%83%20%D0%B8%D0%B7%20%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F%202%D0%93%D0%98%D0%A1.%0A%0A", 
+               "Telegram": "https://t.me/iBroService_klient_bot"
+          }, 
+          "website": "http://link.2gis.com/1.2/2B9F28CE/online/20230401/project32/70000001020819583/null/lgtD2r6B3AG2A11301IGGGG2c2crxu95G6G46C79963A5B4HqEpt7A3B6J74G4IG1JG4IJ4J3c8ouv6B0C5911143A1H1JJ1c8?http://ibroservice.ru/?utm_source=2gis", 
+          "mail": "ibroservice.ru"
+     }, 
+     {
+          "name": "\u041c.\u0412\u0438\u0434\u0435\u043e", 
+          "occupancy": "\u0421\u0435\u0442\u044c \u043c\u0430\u0433\u0430\u0437\u0438\u043d\u043e\u0432 \u0442\u0435\u0445\u043d\u0438\u043a\u0438", 
+          "rating": 3.5, 
+          "firm_id": "https://2gis.kz/moscow/firm/4504128908912481", 
+          "address": {
+               "street": {
+                    "text": "\u0422\u0440\u0443\u0431\u043d\u0430\u044f \u043f\u043b\u043e\u0449\u0430\u0434\u044c,2", 
+                    "link": "/moscow/geo/4504235282758873"
+               }, 
+               "floor": "\u0422\u0440\u0443\u0431\u043d\u0430\u044f \u043f\u043b\u043e\u0449\u0430\u0434\u044c,2", 
+               "city": "\u041c\u0435\u0449\u0430\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d, \u041c\u043e\u0441\u043a\u0432\u0430, 107031"
+          }, 
+          "about": "\u0421\u0435\u0442\u044c \u043c\u0430\u0433\u0430\u0437\u0438\u043d\u043e\u0432 \u0442\u0435\u0445\u043d\u0438\u043a\u0438", 
+          "phone_number": null, 
+          "social_medias": {
+               "\u0412\u041a\u043e\u043d\u0442\u0430\u043a\u0442\u0435": "https://vk.com/mvideo", 
+               "Twitter": "https://twitter.com/mvideo", 
+               "\u041e\u0434\u043d\u043e\u043a\u043b\u0430\u0441\u0441\u043d\u0438\u043a\u0438": "https://ok.ru/mvideo", 
+               "YouTube": "https://youtube.com/user/wwwmvideoru/featured", 
+               "WhatsApp": "https://wa.me/79626007775?text=%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%D1%82%D0%B5!%0A%0A%D0%9F%D0%B8%D1%88%D1%83%20%D0%B8%D0%B7%20%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F%202%D0%93%D0%98%D0%A1.%0A%0A", 
+               "Telegram": "https://t.me/mvideo_official_bot"
+          }, 
+          "website": "http://link.2gis.com/1.2/E9D18023/online/20230401/project32/4504128908912481/null/vht3zh6B3AG2761713IGGG29fzlww995G6G46C79964584H1qEpt7A3B6J74G4IG1J1JI7GJcd2juv6B0C59991AC3H1HJ3Hd?http://mvideo.ru/?utm_source=2gis&utm_medium=cpc&utm_campaign=mg_Flight_RF_FED_2GIS_Geocontext&utm_content=msk", 
+          "mail": null
+     }, 
+     {
+          "name": "Device Pitstop", 
+          "occupancy": "\u041c\u0430\u0433\u0430\u0437\u0438\u043d \u043c\u043e\u0431\u0438\u043b\u044c\u043d\u044b\u0445 \u0442\u0435\u043b\u0435\u0444\u043e\u043d\u043e\u0432", 
+          "rating": null, 
+          "firm_id": "https://2gis.kz/moscow/firm/70000001032731835", 
+          "address": {
+               "street": {
+                    "text": "\u041a\u043e\u0441\u0442\u0440\u043e\u043c\u0441\u043a\u0430\u044f \u0443\u043b\u0438\u0446\u0430,17", 
+                    "link": "/moscow/geo/4504235282537090"
+               }, 
+               "floor": "13 \u043f\u0430\u0432\u0438\u043b\u044c\u043e\u043d; \u0446\u043e\u043a\u043e\u043b\u044c\u043d\u044b\u0439 \u044d\u0442\u0430\u0436", 
+               "city": "\u0411\u0438\u0431\u0438\u0440\u0435\u0432\u043e \u0440\u0430\u0439\u043e\u043d, \u041c\u043e\u0441\u043a\u0432\u0430, 127549"
+          }, 
+          "about": "\u041c\u0430\u0433\u0430\u0437\u0438\u043d \u043c\u043e\u0431\u0438\u043b\u044c\u043d\u044b\u0445 \u0442\u0435\u043b\u0435\u0444\u043e\u043d\u043e\u0432", 
+          "phone_number": "tel:+79264938979", 
+          "social_medias": {
+               "WhatsApp": "https://wa.me/79264938979?text=%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%D1%82%D0%B5!%0A%0A%D0%9F%D0%B8%D1%88%D1%83%20%D0%B8%D0%B7%20%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F%202%D0%93%D0%98%D0%A1.%0A%0A"
+          }, 
+          "website": "https://wa.me/79777649584?text=%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%D1%82%D0%B5!%0A%0A%D0%9F%D0%B8%D1%88%D1%83%20%D0%B8%D0%B7%20%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F%202%D0%93%D0%98%D0%A1.%0A%0A", 
+          "mail": null
+     }, 
+     {
+          "name": "iCity", 
+          "occupancy": "\u041c\u0430\u0433\u0430\u0437\u0438\u043d \u0442\u0435\u0445\u043d\u0438\u043a\u0438", 
+          "rating": 4.9, 
+          "firm_id": "https://2gis.kz/moscow/firm/70000001051989009", 
+          "address": {
+               "street": {
+                    "text": "\u0423\u043b\u0438\u0446\u0430 \u0411\u0430\u0440\u043a\u043b\u0430\u044f,8", 
+                    "link": "/moscow/geo/4504235282688295"
+               }, 
+               "floor": "\u0423\u043b\u0438\u0446\u0430 \u0411\u0430\u0440\u043a\u043b\u0430\u044f,8", 
+               "city": "\u0424\u0438\u043b\u0451\u0432\u0441\u043a\u0438\u0439 \u043f\u0430\u0440\u043a \u0440\u0430\u0439\u043e\u043d, \u041c\u043e\u0441\u043a\u0432\u0430, 121087"
+          }, 
+          "about": "\u041c\u0430\u0433\u0430\u0437\u0438\u043d \u0442\u0435\u0445\u043d\u0438\u043a\u0438", 
+          "phone_number": "tel:+79057111123", 
+          "social_medias": {
+               "\u0412\u041a\u043e\u043d\u0442\u0430\u043a\u0442\u0435": "https://vk.com/icity_moskva", 
+               "WhatsApp": "https://wa.me/79371414163?text=%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%D1%82%D0%B5!%0A%0A%D0%9F%D0%B8%D1%88%D1%83%20%D0%B8%D0%B7%20%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F%202%D0%93%D0%98%D0%A1.%0A%0A", 
+               "Telegram": "https://t.me/icity_moskva"
+          }, 
+          "website": "http://link.2gis.com/1.2/2F002E06/online/20230401/project32/70000001051989009/null/9lkDk96B3AG2A11301IGGGG2l6rx4995G6G46C7996AA03AHqEpt7A3B6J74G4IG1JG4IJ4Jy2d7uv6B0C5911174B1H1JJ125?http://icity-store.ru", 
+          "mail": "icity-store.ru"
+     }, 
+     {
+          "name": "i-\u0412\u0441\u0451.ru", 
+          "occupancy": "\u0418\u043d\u0442\u0435\u0440\u043d\u0435\u0442-\u043c\u0430\u0433\u0430\u0437\u0438\u043d \u0446\u0438\u0444\u0440\u043e\u0432\u043e\u0439 \u0442\u0435\u0445\u043d\u0438\u043a\u0438 \u0438 \u0430\u043a\u0441\u0435\u0441\u0441\u0443\u0430\u0440\u043e\u0432", 
+          "rating": 5.0, 
+          "firm_id": "https://2gis.kz/moscow/firm/4504128908904769", 
+          "address": {
+               "street": {
+                    "text": "\u0423\u043b\u0438\u0446\u0430 \u0411\u0430\u0440\u043a\u043b\u0430\u044f,8", 
+                    "link": "/moscow/geo/4504235282688295"
+               }, 
+               "floor": "\u0423\u043b\u0438\u0446\u0430 \u0411\u0430\u0440\u043a\u043b\u0430\u044f,8", 
+               "city": "\u0424\u0438\u043b\u0451\u0432\u0441\u043a\u0438\u0439 \u043f\u0430\u0440\u043a \u0440\u0430\u0439\u043e\u043d, \u041c\u043e\u0441\u043a\u0432\u0430, 121087"
+          }, 
+          "about": "\u0418\u043d\u0442\u0435\u0440\u043d\u0435\u0442-\u043c\u0430\u0433\u0430\u0437\u0438\u043d \u0446\u0438\u0444\u0440\u043e\u0432\u043e\u0439 \u0442\u0435\u0445\u043d\u0438\u043a\u0438 \u0438 \u0430\u043a\u0441\u0435\u0441\u0441\u0443\u0430\u0440\u043e\u0432", 
+          "phone_number": "tel:+74951283805", 
+          "social_medias": {
+               "WhatsApp": "https://wa.me/79772512401?text=%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%D1%82%D0%B5!%0A%0A%D0%9F%D0%B8%D1%88%D1%83%20%D0%B8%D0%B7%20%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F%202%D0%93%D0%98%D0%A1.%0A%0A", 
+               "Viber": "viber://chat/?number=+79772512401", 
+               "Telegram": "https://t.me/ivseru"
+          }, 
+          "website": "http://link.2gis.com/1.2/2ED0AEA8/online/20230401/project32/4504128908904769/null/drp4rk6B3AG2761713IGGG2aswDrh195G6G46C7996686CH1qEpt7A3B6J74G4IG1J1JI7GJw8gquv6B0C59991AC2H1HJ3Hc?http://www.i-vse.ru", 
+          "mail": "www.i-vse.ru"
+     }, 
+     {
+          "name": "\u042d\u043b\u044c\u0434\u043e\u0440\u0430\u0434\u043e", 
+          "occupancy": "\u0421\u0435\u0442\u044c \u043c\u0430\u0433\u0430\u0437\u0438\u043d\u043e\u0432 \u0431\u044b\u0442\u043e\u0432\u043e\u0439 \u0442\u0435\u0445\u043d\u0438\u043a\u0438 \u0438 \u044d\u043b\u0435\u043a\u0442\u0440\u043e\u043d\u0438\u043a\u0438", 
+          "rating": 3.4, 
+          "firm_id": "https://2gis.kz/moscow/firm/70000001039245026", 
+          "address": {
+               "street": {
+                    "text": "\u0425\u043e\u0434\u044b\u043d\u0441\u043a\u0438\u0439 \u0431\u0443\u043b\u044c\u0432\u0430\u0440,4", 
+                    "link": "/moscow/geo/4504235283134799"
+               }, 
+               "floor": "\u0425\u043e\u0434\u044b\u043d\u0441\u043a\u0438\u0439 \u0431\u0443\u043b\u044c\u0432\u0430\u0440,4", 
+               "city": "\u0425\u043e\u0440\u043e\u0448\u0451\u0432\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d, \u041c\u043e\u0441\u043a\u0432\u0430, 125252"
+          }, 
+          "about": "\u0421\u0435\u0442\u044c \u043c\u0430\u0433\u0430\u0437\u0438\u043d\u043e\u0432 \u0431\u044b\u0442\u043e\u0432\u043e\u0439 \u0442\u0435\u0445\u043d\u0438\u043a\u0438 \u0438 \u044d\u043b\u0435\u043a\u0442\u0440\u043e\u043d\u0438\u043a\u0438", 
+          "phone_number": "tel:88002502525", 
+          "social_medias": {
+               "\u041e\u0434\u043d\u043e\u043a\u043b\u0430\u0441\u0441\u043d\u0438\u043a\u0438": "https://ok.ru/eldorado.stores", 
+               "YouTube": "https://youtube.com/user/eldoradovideo", 
+               "\u0412\u041a\u043e\u043d\u0442\u0430\u043a\u0442\u0435": "https://vk.com/eldorado_stores", 
+               "Telegram": "https://t.me/eldorado_official_bot"
+          }, 
+          "website": "http://link.2gis.com/1.2/2B09D6B0/online/20230401/project32/70000001039245026/null/t5zgyg6B3AG2A11301IGGGG2dkn8cA95G6G46C799666057HqEpt7A3B6J74G4IG1JG4IJ4Jg2tuuv6B0C591115C41H1JJ1e5?http://www.eldorado.ru/?utm_source=2gis&utm_medium=cpc&utm_campaign=mg_Flight_RF_FED_2GIS_Geocontext&utm_content=msk", 
+          "mail": "www.eldorado.ru"
+     }, 
+     {
+          "name": "MultiService", 
+          "occupancy": "\u041c\u0430\u0441\u0442\u0435\u0440\u0441\u043a\u0430\u044f \u043f\u043e \u0440\u0435\u043c\u043e\u043d\u0442\u0443 \u043a\u043e\u043c\u043f\u044c\u044e\u0442\u0435\u0440\u043e\u0432 \u0438 \u0442\u0435\u043b\u0435\u0444\u043e\u043d\u043e\u0432", 
+          "rating": 5.0, 
+          "firm_id": "https://2gis.kz/moscow/firm/70000001050326093", 
+          "address": {
+               "street": {
+                    "text": "\u0411\u043e\u043b\u044c\u0448\u0430\u044f \u041f\u0435\u0440\u0435\u044f\u0441\u043b\u0430\u0432\u0441\u043a\u0430\u044f \u0443\u043b\u0438\u0446\u0430,11", 
+                    "link": "/moscow/geo/4504235282564027"
+               }, 
+               "floor": "1 \u044d\u0442\u0430\u0436", 
+               "city": "\u041c\u0435\u0449\u0430\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d, \u041c\u043e\u0441\u043a\u0432\u0430, 129110"
+          }, 
+          "about": "\u041c\u0430\u0441\u0442\u0435\u0440\u0441\u043a\u0430\u044f \u043f\u043e \u0440\u0435\u043c\u043e\u043d\u0442\u0443 \u043a\u043e\u043c\u043f\u044c\u044e\u0442\u0435\u0440\u043e\u0432 \u0438 \u0442\u0435\u043b\u0435\u0444\u043e\u043d\u043e\u0432", 
+          "phone_number": "tel:+79853119970", 
+          "social_medias": {
+               "WhatsApp": "https://wa.me/79853119970?text=%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%D1%82%D0%B5!%0A%0A%D0%9F%D0%B8%D1%88%D1%83%20%D0%B8%D0%B7%20%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F%202%D0%93%D0%98%D0%A1.%0A%0A", 
+               "Telegram": "https://t.me/+79853119970"
+          }, 
+          "website": "https://wa.me/79853119970?text=%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%D1%82%D0%B5!%0A%0A%D0%9F%D0%B8%D1%88%D1%83%20%D0%B8%D0%B7%20%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F%202%D0%93%D0%98%D0%A1.%0A%0A", 
+          "mail": "parasichantonio@gmail.com"
+     }, 
+     {
+          "name": "Continent", 
+          "occupancy": "\u0421\u0435\u0440\u0432\u0438\u0441-\u043c\u0430\u0433\u0430\u0437\u0438\u043d", 
+          "rating": 5.0, 
+          "firm_id": "https://2gis.kz/khimki/firm/70000001033540449", 
+          "address": {
+               "street": {
+                    "text": "\u0423\u043b\u0438\u0446\u0430 \u0413\u043e\u0440\u0448\u0438\u043d\u0430,1", 
+                    "link": "/khimki/geo/4504235282882734"
+               }, 
+               "floor": "\u0432\u043d\u0435\u0448\u043d\u044f\u044f \u0441\u0442\u043e\u0440\u043e\u043d\u0430 \u0434\u043e\u043c\u0430, \u0432\u0445\u043e\u0434 \u0447\u0435\u0440\u0435\u0437 \u0430\u043f\u0442\u0435\u043a\u0443 \u0424\u0430\u0440\u043c\u0430\u0441\u0441, \u043d\u0430\u043f\u0440\u043e\u0442\u0438\u0432 \u0432\u044a\u0435\u0437\u0434\u0430 \u043d\u0430 \u043f\u0430\u0440\u043a\u043e\u0432\u043a\u0443 \u0446\u0435\u043d\u0442\u0440\u0430 \u041b\u0438\u0433\u0430", 
+               "city": "\u041d\u043e\u0432\u044b\u0435 \u0425\u0438\u043c\u043a\u0438\u043c-\u043d, \u0425\u0438\u043c\u043a\u0438, \u041c\u043e\u0441\u043a\u043e\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c, 141407"
+          }, 
+          "about": "\u0421\u0435\u0440\u0432\u0438\u0441-\u043c\u0430\u0433\u0430\u0437\u0438\u043d", 
+          "phone_number": "tel:+79687444457", 
+          "social_medias": {
+               "WhatsApp": "https://wa.me/79251923689?text=%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%D1%82%D0%B5!%0A%0A%D0%9F%D0%B8%D1%88%D1%83%20%D0%B8%D0%B7%20%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F%202%D0%93%D0%98%D0%A1.%0A%0A", 
+               "Telegram": "https://t.me/pc_mob"
+          }, 
+          "website": "http://link.2gis.com/1.2/2D3306FE/online/20230401/project32/70000001033540449/null/3kokk46B3AG2A11301IGGGG2bvjui495G6G46C79986147AHqEpt7A3B8J74G4IG1JG4IJ4JfxgEuv6B0C591115671H1JJ1d6?http://www.pc-mob.ru", 
+          "mail": "www.pc-mob.ru"
+     }, 
+     {
+          "name": "\u0421\u0438\u0442\u0438\u043b\u0438\u043d\u043a", 
+          "occupancy": "\u0418\u043d\u0442\u0435\u0440\u043d\u0435\u0442-\u043c\u0430\u0433\u0430\u0437\u0438\u043d \u0442\u0435\u0445\u043d\u0438\u043a\u0438, \u044d\u043b\u0435\u043a\u0442\u0440\u043e\u043d\u0438\u043a\u0438, \u0442\u043e\u0432\u0430\u0440\u043e\u0432 \u0434\u043b\u044f \u0434\u043e\u043c\u0430 \u0438 \u0440\u0435\u043c\u043e\u043d\u0442\u0430", 
+          "rating": 2.8, 
+          "firm_id": "https://2gis.kz/moscow/firm/70000001049723166", 
+          "address": {
+               "street": {
+                    "text": "\u0421\u0432\u043e\u0431\u043e\u0434\u043d\u044b\u0439 \u043f\u0440\u043e\u0441\u043f\u0435\u043a\u0442,33\u0430", 
+                    "link": "/moscow/geo/4504235282589028"
+               }, 
+               "floor": "\u0421\u0432\u043e\u0431\u043e\u0434\u043d\u044b\u0439 \u043f\u0440\u043e\u0441\u043f\u0435\u043a\u0442,33\u0430", 
+               "city": "\u041d\u043e\u0432\u043e\u0433\u0438\u0440\u0435\u0435\u0432\u043e \u0440\u0430\u0439\u043e\u043d, \u041c\u043e\u0441\u043a\u0432\u0430, 111558"
+          }, 
+          "about": "\u0418\u043d\u0442\u0435\u0440\u043d\u0435\u0442-\u043c\u0430\u0433\u0430\u0437\u0438\u043d \u0442\u0435\u0445\u043d\u0438\u043a\u0438, \u044d\u043b\u0435\u043a\u0442\u0440\u043e\u043d\u0438\u043a\u0438, \u0442\u043e\u0432\u0430\u0440\u043e\u0432 \u0434\u043b\u044f \u0434\u043e\u043c\u0430 \u0438 \u0440\u0435\u043c\u043e\u043d\u0442\u0430", 
+          "phone_number": "tel:+74957802002", 
+          "social_medias": {
+               "\u0412\u041a\u043e\u043d\u0442\u0430\u043a\u0442\u0435": "https://vk.com/citilink_ru", 
+               "YouTube": "https://youtube.com/user/CitilinkTV", 
+               "\u041e\u0434\u043d\u043e\u043a\u043b\u0430\u0441\u0441\u043d\u0438\u043a\u0438": "https://ok.ru/citilink.ru", 
+               "Telegram": "https://t.me/citilink_official"
+          }, 
+          "website": "http://link.2gis.com/1.2/E2BAE3B6/online/20230401/project32/70000001049723166/null/g65oi86B3AG2A11301IGGGG2nxBrD495G6G46C799844197HqEpt7A3B8J74G4IG1JG4IJ4Jefv2uv6B0C591116C91H1JJ1d6?http://citilink.ru", 
+          "mail": "citilink.ru"
+     }, 
+     {
+          "name": "TechZone 439", 
+          "occupancy": "\u0426\u0435\u043d\u0442\u0440 \u043f\u043e \u043f\u0440\u043e\u0434\u0430\u0436\u0430\u043c \u0438 \u0440\u0435\u043c\u043e\u043d\u0442\u0443 \u044d\u043b\u0435\u043a\u0442\u0440\u043e\u0442\u0440\u0430\u043d\u0441\u043f\u043e\u0440\u0442\u0430 \u0438 \u043c\u043e\u0431\u0438\u043b\u044c\u043d\u044b\u0445 \u0443\u0441\u0442\u0440\u043e\u0439\u0441\u0442\u0432", 
+          "rating": 5.0, 
+          "firm_id": "https://2gis.kz/moscow/firm/70000001025587408", 
+          "address": {
+               "street": {
+                    "text": "\u041f\u044f\u0442\u043d\u0438\u0446\u043a\u043e\u0435 \u0448\u043e\u0441\u0441\u0435,18", 
+                    "link": "/moscow/geo/4504235283007767"
+               }, 
+               "floor": "\u041f\u044f\u0442\u043d\u0438\u0446\u043a\u043e\u0435 \u0448\u043e\u0441\u0441\u0435,18", 
+               "city": "\u041c\u0438\u0442\u0438\u043d\u043e \u0440\u0430\u0439\u043e\u043d, \u041c\u043e\u0441\u043a\u0432\u0430, 125464"
+          }, 
+          "about": "\u0426\u0435\u043d\u0442\u0440 \u043f\u043e \u043f\u0440\u043e\u0434\u0430\u0436\u0430\u043c \u0438 \u0440\u0435\u043c\u043e\u043d\u0442\u0443 \u044d\u043b\u0435\u043a\u0442\u0440\u043e\u0442\u0440\u0430\u043d\u0441\u043f\u043e\u0440\u0442\u0430 \u0438 \u043c\u043e\u0431\u0438\u043b\u044c\u043d\u044b\u0445 \u0443\u0441\u0442\u0440\u043e\u0439\u0441\u0442\u0432", 
+          "phone_number": "tel:+79150188877", 
+          "social_medias": {
+               "WhatsApp": "https://wa.me/79150188877?text=%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%D1%82%D0%B5!%0A%0A%D0%9F%D0%B8%D1%88%D1%83%20%D0%B8%D0%B7%20%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F%202%D0%93%D0%98%D0%A1.%0A%0A"
+          }, 
+          "website": "https://wa.me/79150188877?text=%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%D1%82%D0%B5!%0A%0A%D0%9F%D0%B8%D1%88%D1%83%20%D0%B8%D0%B7%20%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F%202%D0%93%D0%98%D0%A1.%0A%0A", 
+          "mail": null
+     }, 
+     {
+          "name": "Addroid", 
+          "occupancy": "\u0421\u0430\u043b\u043e\u043d \u0441\u0432\u044f\u0437\u0438", 
+          "rating": 4.9, 
+          "firm_id": "https://2gis.kz/moscow/firm/70000001041013940", 
+          "address": {
+               "street": {
+                    "text": "\u0422\u0438\u043c\u0438\u0440\u044f\u0437\u0435\u0432\u0441\u043a\u0430\u044f \u0443\u043b\u0438\u0446\u0430,2/3", 
+                    "link": "/moscow/geo/4504235282603410"
+               }, 
+               "floor": "\u0422\u0438\u043c\u0438\u0440\u044f\u0437\u0435\u0432\u0441\u043a\u0430\u044f \u0443\u043b\u0438\u0446\u0430,2/3", 
+               "city": "\u0422\u0438\u043c\u0438\u0440\u044f\u0437\u0435\u0432\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d, \u041c\u043e\u0441\u043a\u0432\u0430, 127422"
+          }, 
+          "about": "\u0421\u0430\u043b\u043e\u043d \u0441\u0432\u044f\u0437\u0438", 
+          "phone_number": "tel:+74952410255", 
+          "social_medias": {
+               "\u0412\u041a\u043e\u043d\u0442\u0430\u043a\u0442\u0435": "https://vk.com/addroidd", 
+               "YouTube": "https://youtube.com/channel/UCBMZfJbc8Hs_le1SrEvWmkw", 
+               "WhatsApp": "https://wa.me/74952410255?text=%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%D1%82%D0%B5!%0A%0A%D0%9F%D0%B8%D1%88%D1%83%20%D0%B8%D0%B7%20%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F%202%D0%93%D0%98%D0%A1.%0A%0A", 
+               "Telegram": "https://t.me/addroid"
+          }, 
+          "website": "http://link.2gis.com/1.2/4B850FDF/online/20230401/project32/70000001041013940/null/t5zgyg6B3AG2A11301IGGGG2dkn8cA95G6G46C799834971HqEpt7A3B8J74G4IG1JG4IJ4Jg2tuuv6B0C591116421H1JJ1cc?http://addroid.ru", 
+          "mail": "addroid.ru"
+     }, 
+     {
+          "name": "Apple Pie", 
+          "occupancy": "\u0421\u0435\u0440\u0432\u0438\u0441 \u043f\u043e \u0440\u0435\u043c\u043e\u043d\u0442\u0443 \u0441\u043c\u0430\u0440\u0442\u0444\u043e\u043d\u043e\u0432, \u043f\u043b\u0430\u043d\u0448\u0435\u0442\u043e\u0432, \u043d\u043e\u0443\u0442\u0431\u0443\u043a\u043e\u0432", 
+          "rating": 5.0, 
+          "firm_id": "https://2gis.kz/moscow/firm/70000001052793893", 
+          "address": {
+               "street": {
+                    "text": "\u041c\u0438\u0447\u0443\u0440\u0438\u043d\u0441\u043a\u0438\u0439 \u043f\u0440\u043e\u0441\u043f\u0435\u043a\u0442,3", 
+                    "link": "/moscow/geo/4504235282609691"
+               }, 
+               "floor": "1 \u044d\u0442\u0430\u0436", 
+               "city": "\u0428\u0443\u0432\u0430\u043b\u043e\u0432\u0441\u043a\u0438\u0439 Prima\u0436\u0438\u043b\u043e\u0439 \u043a\u043e\u043c\u043f\u043b\u0435\u043a\u0441, \u0420\u0430\u043c\u0435\u043d\u043a\u0438 \u0440\u0430\u0439\u043e\u043d, \u041c\u043e\u0441\u043a\u0432\u0430, 119192"
+          }, 
+          "about": "\u0421\u0435\u0440\u0432\u0438\u0441 \u043f\u043e \u0440\u0435\u043c\u043e\u043d\u0442\u0443 \u0441\u043c\u0430\u0440\u0442\u0444\u043e\u043d\u043e\u0432, \u043f\u043b\u0430\u043d\u0448\u0435\u0442\u043e\u0432, \u043d\u043e\u0443\u0442\u0431\u0443\u043a\u043e\u0432", 
+          "phone_number": "tel:+74996537471", 
+          "social_medias": {
+               "\u0412\u041a\u043e\u043d\u0442\u0430\u043a\u0442\u0435": "https://vk.com/applepie_ru", 
+               "YouTube": "https://youtube.com/channel/UCH9lJWC7DxKcIwYdwltEEPw", 
+               "WhatsApp": "https://wa.me/79997106500?text=%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%D1%82%D0%B5!%0A%0A%D0%9F%D0%B8%D1%88%D1%83%20%D0%B8%D0%B7%20%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F%202%D0%93%D0%98%D0%A1.%0A%0A", 
+               "Viber": "viber://chat/?number=+79997106500", 
+               "Telegram": "https://t.me/artem_applepie"
+          }, 
+          "website": "http://link.2gis.com/1.2/4283187A/online/20230401/project32/70000001052793893/null/drp4rk6B3AG2A11301IGGGG2swDrh195G6G46C7998B48C4HqEpt7A3B8J74G4IG1JG4IJ4Jw8gquv6B0C591117591H1JJ17d?http://pieapple.ru", 
+          "mail": "pieapple.ru"
+     }, 
+     {
+          "name": "GGmobile", 
+          "occupancy": "\u0421\u0435\u0440\u0432\u0438\u0441\u043d\u044b\u0439 \u0446\u0435\u043d\u0442\u0440", 
+          "rating": 4.5, 
+          "firm_id": "https://2gis.kz/moscow/firm/70000001044016821", 
+          "address": {
+               "street": {
+                    "text": "\u0411\u043e\u043b\u044c\u0448\u0430\u044f \u0427\u0435\u0440\u043a\u0438\u0437\u043e\u0432\u0441\u043a\u0430\u044f \u0443\u043b\u0438\u0446\u0430,3 \u043a1", 
+                    "link": "/moscow/geo/4504235282547114"
+               }, 
+               "floor": "1 \u044d\u0442\u0430\u0436", 
+               "city": "\u041f\u0440\u0435\u043e\u0431\u0440\u0430\u0436\u0435\u043d\u0441\u043a\u043e\u0435 \u0440\u0430\u0439\u043e\u043d, \u041c\u043e\u0441\u043a\u0432\u0430, 107061"
+          }, 
+          "about": "\u0421\u0435\u0440\u0432\u0438\u0441\u043d\u044b\u0439 \u0446\u0435\u043d\u0442\u0440", 
+          "phone_number": null, 
+          "social_medias": {
+               "WhatsApp": "https://wa.me/79162203535?text=%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%D1%82%D0%B5!%0A%0A%D0%9F%D0%B8%D1%88%D1%83%20%D0%B8%D0%B7%20%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F%202%D0%93%D0%98%D0%A1.%0A%0A"
+          }, 
+          "website": "https://wa.me/79950000305?text=%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%D1%82%D0%B5!%0A%0A%D0%9F%D0%B8%D1%88%D1%83%20%D0%B8%D0%B7%20%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F%202%D0%93%D0%98%D0%A1.%0A%0A", 
+          "mail": null
+     }, 
+     {
+          "name": "Mobi-Lera.ru", 
+          "occupancy": "\u0418\u043d\u0442\u0435\u0440\u043d\u0435\u0442-\u043c\u0430\u0433\u0430\u0437\u0438\u043d", 
+          "rating": 5.0, 
+          "firm_id": "https://2gis.kz/moscow/firm/70000001033051142", 
+          "address": {
+               "street": {
+                    "text": "\u0423\u043b\u0438\u0446\u0430 \u0411\u0430\u0440\u043a\u043b\u0430\u044f,8", 
+                    "link": "/moscow/geo/4504235282688295"
+               }, 
+               "floor": "\u0423\u043b\u0438\u0446\u0430 \u0411\u0430\u0440\u043a\u043b\u0430\u044f,8", 
+               "city": "\u0424\u0438\u043b\u0451\u0432\u0441\u043a\u0438\u0439 \u043f\u0430\u0440\u043a \u0440\u0430\u0439\u043e\u043d, \u041c\u043e\u0441\u043a\u0432\u0430, 121087"
+          }, 
+          "about": "\u0418\u043d\u0442\u0435\u0440\u043d\u0435\u0442-\u043c\u0430\u0433\u0430\u0437\u0438\u043d", 
+          "phone_number": "tel:+74959682164", 
+          "social_medias": {
+               "\u0412\u041a\u043e\u043d\u0442\u0430\u043a\u0442\u0435": "https://vk.com/mobilera", 
+               "WhatsApp": "https://wa.me/79039682146?text=%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%D1%82%D0%B5!%0A%0A%D0%9F%D0%B8%D1%88%D1%83%20%D0%B8%D0%B7%20%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F%202%D0%93%D0%98%D0%A1.%0A%0A", 
+               "Viber": "viber://chat/?number=+79039682146"
+          }, 
+          "website": "http://link.2gis.com/1.2/550B2589/online/20230401/project32/70000001033051142/null/t5zgyg6B3AG2A11301IGGGG2dkn8cA95G6G46C799872173HqEpt7A3B8J74G4IG1JG4IJ4Jg2tuuv6B0C591115621H1JJ15f?http://mobi-lera.ru", 
+          "mail": "mobi-lera.ru"
+     }, 
+     {
+          "name": "Apple2you", 
+          "occupancy": "\u0420\u0435\u043c\u043e\u043d\u0442 \u043c\u043e\u0431\u0438\u043b\u044c\u043d\u044b\u0445 \u0442\u0435\u043b\u0435\u0444\u043e\u043d\u043e\u0432", 
+          "rating": null, 
+          "firm_id": "https://2gis.kz/moscow/firm/70000001055980238", 
+          "address": {
+               "street": {
+                    "text": "\u041a\u043e\u043c\u0441\u043e\u043c\u043e\u043b\u044c\u0441\u043a\u0438\u0439 \u043f\u0440\u043e\u0441\u043f\u0435\u043a\u0442,7 \u0441\u04422", 
+                    "link": "/moscow/geo/4504235282735237"
+               }, 
+               "floor": "4 \u043e\u0444\u0438\u0441; 2 \u044d\u0442\u0430\u0436", 
+               "city": "\u0425\u0430\u043c\u043e\u0432\u043d\u0438\u043a\u0438 \u0440\u0430\u0439\u043e\u043d, \u041c\u043e\u0441\u043a\u0432\u0430, 119146"
+          }, 
+          "about": "\u0420\u0435\u043c\u043e\u043d\u0442 \u043c\u043e\u0431\u0438\u043b\u044c\u043d\u044b\u0445 \u0442\u0435\u043b\u0435\u0444\u043e\u043d\u043e\u0432", 
+          "phone_number": "tel:+79268864448", 
+          "social_medias": {
+               "WhatsApp": "https://wa.me/79268864448?text=%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%D1%82%D0%B5!%0A%0A%D0%9F%D0%B8%D1%88%D1%83%20%D0%B8%D0%B7%20%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F%202%D0%93%D0%98%D0%A1.%0A%0A", 
+               "Telegram": "https://t.me/+79268864448"
+          }, 
+          "website": "http://link.2gis.com/1.2/69DDEE0B/online/20230401/project32/70000001055980238/null/vht3zh6B3AG2A11301IGGGG2fzlww995G6G46C7998A1269HqEpt7A3B8J74G4IG1JG4IJ4Jcd2juv6B0C5911178B1H1JJ1d5?http://www.apple2you.ru", 
+          "mail": "www.apple2you.ru"
+     }, 
+     {
+          "name": "D N K", 
+          "occupancy": "\u0421\u0435\u0440\u0432\u0438\u0441-\u043c\u0430\u0433\u0430\u0437\u0438\u043d", 
+          "rating": 4.9, 
+          "firm_id": "https://2gis.kz/khimki/firm/70000001036450213", 
+          "address": {
+               "street": {
+                    "text": "\u042e\u0431\u0438\u043b\u0435\u0439\u043d\u044b\u0439 \u043f\u0440\u043e\u0441\u043f\u0435\u043a\u0442,41/1", 
+                    "link": "/khimki/geo/4504235282941894"
+               }, 
+               "floor": null, 
+               "city": "\u041d\u043e\u0432\u044b\u0435 \u0425\u0438\u043c\u043a\u0438\u043c-\u043d, \u0425\u0438\u043c\u043a\u0438, \u041c\u043e\u0441\u043a\u043e\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c, 141407"
+          }, 
+          "about": "\u0421\u0435\u0440\u0432\u0438\u0441-\u043c\u0430\u0433\u0430\u0437\u0438\u043d", 
+          "phone_number": "tel:+79251923689", 
+          "social_medias": {
+               "\u0412\u041a\u043e\u043d\u0442\u0430\u043a\u0442\u0435": "https://vk.com/pc_mob", 
+               "\u041e\u0434\u043d\u043e\u043a\u043b\u0430\u0441\u0441\u043d\u0438\u043a\u0438": "https://ok.ru/pc_mob", 
+               "Twitter": "https://twitter.com/pc_mob", 
+               "YouTube": "https://youtube.com/pc_mob", 
+               "WhatsApp": "https://wa.me/79687444457?text=%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%D1%82%D0%B5!%0A%0A%D0%9F%D0%B8%D1%88%D1%83%20%D0%B8%D0%B7%20%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F%202%D0%93%D0%98%D0%A1.%0A%0A", 
+               "Telegram": "https://t.me/pc_mob"
+          }, 
+          "website": "http://link.2gis.com/1.2/6B1F0AB8/online/20230401/project32/70000001036450213/null/t5zgyg6B3AG2A11301IGGGG2dkn8cA95G6G46C799871244HqEpt7A3B8J74G4IG1JG4IJ4Jg2tuuv6B0C591115961H1JJ16g?http://pc-mob.ru", 
+          "mail": "pc-mob.ru"
+     }, 
+     {
+          "name": "Big Geek", 
+          "occupancy": "\u0428\u043e\u0443\u0440\u0443\u043c", 
+          "rating": 3.3, 
+          "firm_id": "https://2gis.kz/moscow/firm/4504128908436526", 
+          "address": {
+               "street": {
+                    "text": "\u0411\u0430\u0433\u0440\u0430\u0442\u0438\u043e\u043d\u043e\u0432\u0441\u043a\u0438\u0439 \u043f\u0440\u043e\u0435\u0437\u0434,7 \u043a20\u0432", 
+                    "link": "/moscow/geo/4504235282688326"
+               }, 
+               "floor": "\u0411\u0430\u0433\u0440\u0430\u0442\u0438\u043e\u043d\u043e\u0432\u0441\u043a\u0438\u0439 \u043f\u0440\u043e\u0435\u0437\u0434,7 \u043a20\u0432", 
+               "city": "\u0424\u0438\u043b\u0451\u0432\u0441\u043a\u0438\u0439 \u043f\u0430\u0440\u043a \u0440\u0430\u0439\u043e\u043d, \u041c\u043e\u0441\u043a\u0432\u0430, 121087"
+          }, 
+          "about": "\u0428\u043e\u0443\u0440\u0443\u043c", 
+          "phone_number": "tel:+74959434943", 
+          "social_medias": {
+               "\u0412\u041a\u043e\u043d\u0442\u0430\u043a\u0442\u0435": "https://vk.com/biggeekru", 
+               "Twitter": "https://twitter.com/biggeekru", 
+               "YouTube": "https://youtube.com/c/BiggeekRu", 
+               "Telegram": "https://t.me/biggeekhelp_bot"
+          }, 
+          "website": "http://link.2gis.com/1.2/CD32D0DD/online/20230401/project32/4504128908436526/null/BF3m3x6B3AG2761713IGGG2cv1t9xg95G6G46C79998629H1qEpt7A3B9J74G4IG1J1JI7GJtiDduv6B0C59991A75H1HJ3H6?http://biggeek.ru", 
+          "mail": "biggeek.ru"
+     }, 
+     {
+          "name": "Store77", 
+          "occupancy": "\u0418\u043d\u0442\u0435\u0440\u043d\u0435\u0442-\u043c\u0430\u0433\u0430\u0437\u0438\u043d", 
+          "rating": 3.9, 
+          "firm_id": "https://2gis.kz/moscow/firm/4504128908672090", 
+          "address": {
+               "street": {
+                    "text": "\u0411\u0430\u0433\u0440\u0430\u0442\u0438\u043e\u043d\u043e\u0432\u0441\u043a\u0438\u0439 \u043f\u0440\u043e\u0435\u0437\u0434,7 \u043a20\u0432", 
+                    "link": "/moscow/geo/4504235282688326"
+               }, 
+               "floor": "\u0411\u0430\u0433\u0440\u0430\u0442\u0438\u043e\u043d\u043e\u0432\u0441\u043a\u0438\u0439 \u043f\u0440\u043e\u0435\u0437\u0434,7 \u043a20\u0432", 
+               "city": "\u0424\u0438\u043b\u0451\u0432\u0441\u043a\u0438\u0439 \u043f\u0430\u0440\u043a \u0440\u0430\u0439\u043e\u043d, \u041c\u043e\u0441\u043a\u0432\u0430, 121087"
+          }, 
+          "about": "\u0418\u043d\u0442\u0435\u0440\u043d\u0435\u0442-\u043c\u0430\u0433\u0430\u0437\u0438\u043d", 
+          "phone_number": "tel:+74992816106", 
+          "social_medias": {
+               "\u0412\u041a\u043e\u043d\u0442\u0430\u043a\u0442\u0435": "https://vk.com/store77"
+          }, 
+          "website": "http://link.2gis.com/1.2/46250535/online/20230401/project32/4504128908672090/null/q597946B3AG2761713IGGG26bxci4k95G6G46C79984193H1qEpt7A3B8J74G4IG1J1JI7GJfD56uv6B0C59991A99H1HJ3Hf?http://store77.net", 
+          "mail": "store77.net"
+     }, 
+     {
+          "name": "Apple Box", 
+          "occupancy": "\u041c\u0430\u0433\u0430\u0437\u0438\u043d", 
+          "rating": 3.0, 
+          "firm_id": "https://2gis.kz/moscow/firm/70000001052046345", 
+          "address": {
+               "street": {
+                    "text": "\u041f\u0440\u0435\u0441\u043d\u0435\u043d\u0441\u043a\u0430\u044f \u043d\u0430\u0431\u0435\u0440\u0435\u0436\u043d\u0430\u044f,2", 
+                    "link": "/moscow/geo/4504235282796239"
+               }, 
+               "floor": "\u041f\u0440\u0435\u0441\u043d\u0435\u043d\u0441\u043a\u0430\u044f \u043d\u0430\u0431\u0435\u0440\u0435\u0436\u043d\u0430\u044f,2", 
+               "city": "\u041f\u0440\u0435\u0441\u043d\u0435\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d, \u041c\u043e\u0441\u043a\u0432\u0430, 123112"
+          }, 
+          "about": "\u041c\u0430\u0433\u0430\u0437\u0438\u043d", 
+          "phone_number": "tel:88007707021", 
+          "social_medias": {
+               "\u0412\u041a\u043e\u043d\u0442\u0430\u043a\u0442\u0435": "https://vk.com/goldapple_ru", 
+               "YouTube": "https://youtube.com/channel/UC5vsg5-xOIT0N-jilqFSz_w", 
+               "WhatsApp": "https://wa.me/78007707021?text=%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%D1%82%D0%B5!%0A%0A%D0%9F%D0%B8%D1%88%D1%83%20%D0%B8%D0%B7%20%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F%202%D0%93%D0%98%D0%A1.%0A%0A", 
+               "Telegram": "https://t.me/goldapple_ru"
+          }, 
+          "website": "http://link.2gis.com/1.2/F41A7CA6/online/20230401/project32/70000001052046345/null/lgtD2r6B3AG2A11301IGGGG2c2crxu95G6G46C799867376HqEpt7A3B8J74G4IG1JG4IJ4J3c8ouv6B0C591117521H1JJ17g?http://www.goldapple.ru", 
+          "mail": "www.goldapple.ru"
+     }, 
+     {
+          "name": "Apple Box", 
+          "occupancy": "\u041c\u0430\u0433\u0430\u0437\u0438\u043d", 
+          "rating": null, 
+          "firm_id": "https://2gis.kz/moscow/firm/70000001061451935", 
+          "address": {
+               "street": {
+                    "text": "\u041a\u0443\u0442\u0443\u0437\u043e\u0432\u0441\u043a\u0438\u0439 \u043f\u0440\u043e\u0441\u043f\u0435\u043a\u0442,57", 
+                    "link": "/moscow/geo/4504235295534895"
+               }, 
+               "floor": "\u041a\u0443\u0442\u0443\u0437\u043e\u0432\u0441\u043a\u0438\u0439 \u043f\u0440\u043e\u0441\u043f\u0435\u043a\u0442,57", 
+               "city": "\u0424\u0438\u043b\u0438-\u0414\u0430\u0432\u044b\u0434\u043a\u043e\u0432\u043e \u0440\u0430\u0439\u043e\u043d, \u041c\u043e\u0441\u043a\u0432\u0430, 121352"
+          }, 
+          "about": "\u041c\u0430\u0433\u0430\u0437\u0438\u043d", 
+          "phone_number": "tel:88007707021", 
+          "social_medias": {
+               "\u0412\u041a\u043e\u043d\u0442\u0430\u043a\u0442\u0435": "https://vk.com/goldapple_ru", 
+               "YouTube": "https://youtube.com/channel/UC5vsg5-xOIT0N-jilqFSz_w", 
+               "WhatsApp": "https://wa.me/78007707021?text=%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%D1%82%D0%B5!%0A%0A%D0%9F%D0%B8%D1%88%D1%83%20%D0%B8%D0%B7%20%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F%202%D0%93%D0%98%D0%A1.%0A%0A", 
+               "Telegram": "https://t.me/goldapple_ru"
+          }, 
+          "website": "http://link.2gis.com/1.2/15386B03/online/20230401/project32/70000001061451935/null/wAfyAD6B3AG2A11301IGGGG2e4zDdg95G6G46C799972966HqEpt7A3B9J74G4IG1JG4IJ4Jqbd9uv6B0C591118461H1JJ1Ag?http://www.goldapple.ru", 
+          "mail": "www.goldapple.ru"
+     }, 
+     {
+          "name": "\u0417\u043e\u043b\u043e\u0442\u043e\u0435 \u044f\u0431\u043b\u043e\u043a\u043e", 
+          "occupancy": "\u041f\u0430\u0440\u0444\u044e\u043c\u0435\u0440\u043d\u044b\u0439 \u0441\u0443\u043f\u0435\u0440\u043c\u0430\u0440\u043a\u0435\u0442", 
+          "rating": 3.2, 
+          "firm_id": "https://2gis.kz/moscow/firm/70000001034720418", 
+          "address": {
+               "street": {
+                    "text": "\u041b\u0435\u043d\u0438\u043d\u0433\u0440\u0430\u0434\u0441\u043a\u043e\u0435 \u0448\u043e\u0441\u0441\u0435,16\u0430 \u0441\u04424", 
+                    "link": "/moscow/geo/4504235282578431"
+               }, 
+               "floor": "\u041b\u0435\u043d\u0438\u043d\u0433\u0440\u0430\u0434\u0441\u043a\u043e\u0435 \u0448\u043e\u0441\u0441\u0435,16\u0430 \u0441\u04424", 
+               "city": "\u0412\u043e\u0439\u043a\u043e\u0432\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d, \u041c\u043e\u0441\u043a\u0432\u0430, 125171"
+          }, 
+          "about": "\u041f\u0430\u0440\u0444\u044e\u043c\u0435\u0440\u043d\u044b\u0439 \u0441\u0443\u043f\u0435\u0440\u043c\u0430\u0440\u043a\u0435\u0442", 
+          "phone_number": "tel:88007707021", 
+          "social_medias": {
+               "\u0412\u041a\u043e\u043d\u0442\u0430\u043a\u0442\u0435": "https://vk.com/goldapple_ru", 
+               "YouTube": "https://youtube.com/channel/UC5vsg5-xOIT0N-jilqFSz_w", 
+               "WhatsApp": "https://wa.me/78007707021?text=%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%D1%82%D0%B5!%0A%0A%D0%9F%D0%B8%D1%88%D1%83%20%D0%B8%D0%B7%20%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F%202%D0%93%D0%98%D0%A1.%0A%0A", 
+               "Telegram": "https://t.me/goldapple_ru"
+          }, 
+          "website": "http://link.2gis.com/1.2/9F0B3496/online/20230401/project32/70000001034720418/null/q597946B3AG2A11301IGGGG2bxci4k95G6G46C799A41449HqEpt7A3BAJ74G4IG1JG4IJ4JfD56uv6B0C591115791H1JJ17A?http://www.goldapple.ru", 
+          "mail": "www.goldapple.ru"
+     }, 
+     {
+          "name": "\u041f\u043b\u0435\u0435\u0440.\u0440\u0443", 
+          "occupancy": "\u0418\u043d\u0442\u0435\u0440\u043d\u0435\u0442-\u043c\u0430\u0433\u0430\u0437\u0438\u043d", 
+          "rating": 4.5, 
+          "firm_id": "https://2gis.kz/moscow/firm/4504127908399922", 
+          "address": {
+               "street": {
+                    "text": "\u0423\u043b\u0438\u0446\u0430 \u041c\u0430\u0441\u0442\u0435\u0440\u043a\u043e\u0432\u0430,4", 
+                    "link": "/moscow/geo/4504235282624690"
+               }, 
+               "floor": "\u0423\u043b\u0438\u0446\u0430 \u041c\u0430\u0441\u0442\u0435\u0440\u043a\u043e\u0432\u0430,4", 
+               "city": "\u0414\u0430\u043d\u0438\u043b\u043e\u0432\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d, \u041c\u043e\u0441\u043a\u0432\u0430, 115280"
+          }, 
+          "about": "\u0418\u043d\u0442\u0435\u0440\u043d\u0435\u0442-\u043c\u0430\u0433\u0430\u0437\u0438\u043d", 
+          "phone_number": null, 
+          "social_medias": {
+               "\u0412\u041a\u043e\u043d\u0442\u0430\u043a\u0442\u0435": "https://vk.com/pleerru"
+          }, 
+          "website": "http://link.2gis.com/1.2/8C52D3C8/online/20230401/project32/4504127908399922/null/76qrA86B3AG2761713IGGG2f3kvDt795G6G46C7999BA25H1qEpt7A3B9J74G4IG1J1JI7GJt3euuv6B0C59891A6BH1HJ3H8?http://pleer.ru/?utm_source=2gis", 
+          "mail": null
+     }, 
+     {
+          "name": "Apple Dream Hotel", 
+          "occupancy": "\u0413\u043e\u0441\u0442\u0438\u043d\u0438\u0446\u044b", 
+          "rating": 4.6, 
+          "firm_id": "https://2gis.kz/moscow/firm/70000001034061207", 
+          "address": {
+               "street": {
+                    "text": "\u0412\u0430\u043b\u043e\u0432\u0430\u044f \u0443\u043b\u0438\u0446\u0430,32/75 \u0441\u04421", 
+                    "link": "/moscow/geo/4504235282703500"
+               }, 
+               "floor": "3 \u044d\u0442\u0430\u0436", 
+               "city": "\u0417\u0430\u043c\u043e\u0441\u043a\u0432\u043e\u0440\u0435\u0447\u044c\u0435 \u0440\u0430\u0439\u043e\u043d, \u041c\u043e\u0441\u043a\u0432\u0430, 115054"
+          }, 
+          "about": "\u0413\u043e\u0441\u0442\u0438\u043d\u0438\u0446\u044b", 
+          "phone_number": "tel:+79959032755", 
+          "social_medias": {
+               "WhatsApp": "https://wa.me/79959032755?text=%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%D1%82%D0%B5!%0A%0A%D0%9F%D0%B8%D1%88%D1%83%20%D0%B8%D0%B7%20%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F%202%D0%93%D0%98%D0%A1.%0A%0A", 
+               "Telegram": "https://t.me/appledreamhotel"
+          }, 
+          "website": "http://link.2gis.com/1.2/46E444C1/online/20230401/project32/70000001034061207/null/6x4qf56B3AG2A11301IGGGG2wjlztx95G6G46C799982238HqEpt7A3B9J74G4IG1JG4IJ4JgDAAuv6B0C591115721H1JJ194?http://appledreamhotel.ru", 
+          "mail": "appledreamhotel.ru"
+     }, 
+     {
+          "name": "\u041c.\u0412\u0438\u0434\u0435\u043e", 
+          "occupancy": "\u0421\u0435\u0442\u044c \u043c\u0430\u0433\u0430\u0437\u0438\u043d\u043e\u0432 \u0442\u0435\u0445\u043d\u0438\u043a\u0438", 
+          "rating": 4.5, 
+          "firm_id": "https://2gis.kz/moscow/firm/70000001058991931", 
+          "address": {
+               "street": {
+                    "text": "\u041f\u0430\u0432\u0435\u043b\u0435\u0446\u043a\u0430\u044f \u043f\u043b\u043e\u0449\u0430\u0434\u044c,3", 
+                    "link": "/moscow/geo/70030076192434623"
+               }, 
+               "floor": "\u041f\u0430\u0432\u0435\u043b\u0435\u0446\u043a\u0430\u044f \u043f\u043b\u043e\u0449\u0430\u0434\u044c,3", 
+               "city": "\u0417\u0430\u043c\u043e\u0441\u043a\u0432\u043e\u0440\u0435\u0447\u044c\u0435 \u0440\u0430\u0439\u043e\u043d, \u041c\u043e\u0441\u043a\u0432\u0430, 115114"
+          }, 
+          "about": "\u0421\u0435\u0442\u044c \u043c\u0430\u0433\u0430\u0437\u0438\u043d\u043e\u0432 \u0442\u0435\u0445\u043d\u0438\u043a\u0438", 
+          "phone_number": "tel:88006007775", 
+          "social_medias": {
+               "\u0412\u041a\u043e\u043d\u0442\u0430\u043a\u0442\u0435": "https://vk.com/mvideo", 
+               "Twitter": "https://twitter.com/mvideo", 
+               "\u041e\u0434\u043d\u043e\u043a\u043b\u0430\u0441\u0441\u043d\u0438\u043a\u0438": "https://ok.ru/mvideo", 
+               "YouTube": "https://youtube.com/user/wwwmvideoru/featured", 
+               "WhatsApp": "https://wa.me/79626007775?text=%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%D1%82%D0%B5!%0A%0A%D0%9F%D0%B8%D1%88%D1%83%20%D0%B8%D0%B7%20%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F%202%D0%93%D0%98%D0%A1.%0A%0A", 
+               "Telegram": "https://t.me/mvideo_official_bot"
+          }, 
+          "website": "http://link.2gis.com/1.2/21317812/online/20230401/project32/70000001058991931/null/76qrA86B3AG2A11301IGGGG23kvDt795G6G46C799AB2962HqEpt7A3BAJ74G4IG1JG4IJ4Jt3euuv6B0C591117BB1H1JJ1dd?http://mvideo.ru/?utm_source=2gis&utm_medium=cpc&utm_campaign=mg_Flight_RF_FED_2GIS_Geocontext&utm_content=msk", 
+          "mail": "mvideo.ru"
+     }, 
+     {
+          "name": "\u041c.\u0412\u0438\u0434\u0435\u043e", 
+          "occupancy": "\u0421\u0435\u0442\u044c \u043c\u0430\u0433\u0430\u0437\u0438\u043d\u043e\u0432 \u0442\u0435\u0445\u043d\u0438\u043a\u0438", 
+          "rating": 3.5, 
+          "firm_id": "https://2gis.kz/moscow/firm/70000001006920034", 
+          "address": {
+               "street": {
+                    "text": "\u0425\u043e\u0434\u044b\u043d\u0441\u043a\u0438\u0439 \u0431\u0443\u043b\u044c\u0432\u0430\u0440,4", 
+                    "link": "/moscow/geo/4504235283134799"
+               }, 
+               "floor": "\u0425\u043e\u0434\u044b\u043d\u0441\u043a\u0438\u0439 \u0431\u0443\u043b\u044c\u0432\u0430\u0440,4", 
+               "city": "\u0425\u043e\u0440\u043e\u0448\u0451\u0432\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d, \u041c\u043e\u0441\u043a\u0432\u0430, 125252"
+          }, 
+          "about": "\u0421\u0435\u0442\u044c \u043c\u0430\u0433\u0430\u0437\u0438\u043d\u043e\u0432 \u0442\u0435\u0445\u043d\u0438\u043a\u0438", 
+          "phone_number": "tel:88006007775", 
+          "social_medias": {
+               "\u0412\u041a\u043e\u043d\u0442\u0430\u043a\u0442\u0435": "https://vk.com/mvideo", 
+               "Twitter": "https://twitter.com/mvideo", 
+               "\u041e\u0434\u043d\u043e\u043a\u043b\u0430\u0441\u0441\u043d\u0438\u043a\u0438": "https://ok.ru/mvideo", 
+               "YouTube": "https://youtube.com/user/wwwmvideoru/featured", 
+               "WhatsApp": "https://wa.me/79626007775?text=%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%D1%82%D0%B5!%0A%0A%D0%9F%D0%B8%D1%88%D1%83%20%D0%B8%D0%B7%20%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F%202%D0%93%D0%98%D0%A1.%0A%0A", 
+               "Telegram": "https://t.me/mvideo_official_bot"
+          }, 
+          "website": "http://link.2gis.com/1.2/6611E6BA/online/20230401/project32/70000001006920034/null/Ami5E86B3AG2A11301IGGGG2edAfnk95G6G46C799941065HqEpt7A3B9J74G4IG1JG4IJ4Jpqcfuv6B0C5911129B1H1JJ176?http://mvideo.ru/?utm_source=2gis&utm_medium=cpc&utm_campaign=mg_Flight_RF_FED_2GIS_Geocontext&utm_content=msk", 
+          "mail": "mvideo.ru"
+     }, 
+     {
+          "name": "appleroom", 
+          "occupancy": "\u041c\u0430\u0433\u0430\u0437\u0438\u043d", 
+          "rating": 5.0, 
+          "firm_id": "https://2gis.kz/moscow/firm/70000001043912972", 
+          "address": {
+               "street": {
+                    "text": "\u0423\u043b\u0438\u0446\u0430 \u0411\u0430\u0440\u043a\u043b\u0430\u044f,8", 
+                    "link": "/moscow/geo/4504235282688295"
+               }, 
+               "floor": "\u0423\u043b\u0438\u0446\u0430 \u0411\u0430\u0440\u043a\u043b\u0430\u044f,8", 
+               "city": "\u0424\u0438\u043b\u0451\u0432\u0441\u043a\u0438\u0439 \u043f\u0430\u0440\u043a \u0440\u0430\u0439\u043e\u043d, \u041c\u043e\u0441\u043a\u0432\u0430, 121087"
+          }, 
+          "about": "\u041c\u0430\u0433\u0430\u0437\u0438\u043d", 
+          "phone_number": "tel:+79330009111", 
+          "social_medias": {
+               "WhatsApp": "https://wa.me/79330009111?text=%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%D1%82%D0%B5!%0A%0A%D0%9F%D0%B8%D1%88%D1%83%20%D0%B8%D0%B7%20%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F%202%D0%93%D0%98%D0%A1.%0A%0A", 
+               "Telegram": "https://t.me/appleroom77"
+          }, 
+          "website": "https://wa.me/79330009111?text=%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%D1%82%D0%B5!%0A%0A%D0%9F%D0%B8%D1%88%D1%83%20%D0%B8%D0%B7%20%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F%202%D0%93%D0%98%D0%A1.%0A%0A", 
+          "mail": null
+     }, 
+     {
+          "name": "Apple-pro", 
+          "occupancy": "\u0421\u0435\u0440\u0432\u0438\u0441\u043d\u044b\u0439 \u0446\u0435\u043d\u0442\u0440", 
+          "rating": 4.7, 
+          "firm_id": "https://2gis.kz/moscow/firm/70000001019002532", 
+          "address": {
+               "street": {
+                    "text": "\u0423\u043b\u0438\u0446\u0430 \u0417\u0430\u0446\u0435\u043f\u0430,21 \u0441\u04422", 
+                    "link": "/moscow/geo/4504235314607498"
+               }, 
+               "floor": "306 \u043e\u0444\u0438\u0441; 3 \u044d\u0442\u0430\u0436", 
+               "city": "\u0417\u0430\u043c\u043e\u0441\u043a\u0432\u043e\u0440\u0435\u0447\u044c\u0435 \u0440\u0430\u0439\u043e\u043d, \u041c\u043e\u0441\u043a\u0432\u0430, 115054"
+          }, 
+          "about": "\u0421\u0435\u0440\u0432\u0438\u0441\u043d\u044b\u0439 \u0446\u0435\u043d\u0442\u0440", 
+          "phone_number": "tel:+74955809778", 
+          "social_medias": {
+               "\u0412\u041a\u043e\u043d\u0442\u0430\u043a\u0442\u0435": "https://vk.com/appleproru", 
+               "WhatsApp": "https://wa.me/79255078335?text=%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%D1%82%D0%B5!%0A%0A%D0%9F%D0%B8%D1%88%D1%83%20%D0%B8%D0%B7%20%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F%202%D0%93%D0%98%D0%A1.%0A%0A"
+          }, 
+          "website": "http://link.2gis.com/1.2/A5DEA100/online/20230401/project32/70000001019002532/null/76qrA86B3AG2A11301IGGGG23kvDt795G6G46C799923563HqEpt7A3B9J74G4IG1JG4IJ4Jt3euuv6B0C591113C21H1JJ11c?http://apple-pro.ru", 
+          "mail": "apple-pro.ru"
+     }, 
+     {
+          "name": "re:Store", 
+          "occupancy": "\u041e\u0444\u0438\u0446\u0438\u0430\u043b\u044c\u043d\u044b\u0439 \u043f\u0430\u0440\u0442\u043d\u0435\u0440 Apple", 
+          "rating": 3.7, 
+          "firm_id": "https://2gis.kz/moscow/firm/4504127908371259", 
+          "address": {
+               "street": {
+                    "text": "\u041f\u043b\u043e\u0449\u0430\u0434\u044c \u041a\u0438\u0435\u0432\u0441\u043a\u043e\u0433\u043e \u0432\u043e\u043a\u0437\u0430\u043b\u0430,2", 
+                    "link": "/moscow/geo/4504235282801041"
+               }, 
+               "floor": "\u041f\u043b\u043e\u0449\u0430\u0434\u044c \u041a\u0438\u0435\u0432\u0441\u043a\u043e\u0433\u043e \u0432\u043e\u043a\u0437\u0430\u043b\u0430,2", 
+               "city": "\u0414\u043e\u0440\u043e\u0433\u043e\u043c\u0438\u043b\u043e\u0432\u043e \u0440\u0430\u0439\u043e\u043d, \u041c\u043e\u0441\u043a\u0432\u0430, 121059"
+          }, 
+          "about": "\u041e\u0444\u0438\u0446\u0438\u0430\u043b\u044c\u043d\u044b\u0439 \u043f\u0430\u0440\u0442\u043d\u0435\u0440 Apple", 
+          "phone_number": "tel:+74952257366", 
+          "social_medias": {
+               "\u0412\u041a\u043e\u043d\u0442\u0430\u043a\u0442\u0435": "https://vk.com/re_store", 
+               "YouTube": "https://youtube.com/user/restoreapr", 
+               "Telegram": "https://t.me/restore_ru"
+          }, 
+          "website": "http://link.2gis.com/1.2/6891E93C/online/20230401/project32/4504127908371259/null/drp4rk6B3AG2761713IGGG20swDrh195G6G46C7999335CH1qEpt7A3B9J74G4IG1J1JI7GJw8gquv6B0C59891A69H1HJ3H1?http://re-store.ru", 
+          "mail": "re-store.ru"
+     }, 
+     {
+          "name": "\u041c.\u0412\u0438\u0434\u0435\u043e", 
+          "occupancy": "\u0421\u0435\u0442\u044c \u043c\u0430\u0433\u0430\u0437\u0438\u043d\u043e\u0432 \u0442\u0435\u0445\u043d\u0438\u043a\u0438", 
+          "rating": 4.5, 
+          "firm_id": "https://2gis.kz/moscow/firm/70000001044829742", 
+          "address": {
+               "street": {
+                    "text": "\u0417\u0435\u043c\u043b\u044f\u043d\u043e\u0439 \u0412\u0430\u043b \u0443\u043b\u0438\u0446\u0430,33", 
+                    "link": "/moscow/geo/4504235282678137"
+               }, 
+               "floor": "\u0417\u0435\u043c\u043b\u044f\u043d\u043e\u0439 \u0412\u0430\u043b \u0443\u043b\u0438\u0446\u0430,33", 
+               "city": "\u0411\u0430\u0441\u043c\u0430\u043d\u043d\u044b\u0439 \u0440\u0430\u0439\u043e\u043d, \u041c\u043e\u0441\u043a\u0432\u0430, 105064"
+          }, 
+          "about": "\u0421\u0435\u0442\u044c \u043c\u0430\u0433\u0430\u0437\u0438\u043d\u043e\u0432 \u0442\u0435\u0445\u043d\u0438\u043a\u0438", 
+          "phone_number": null, 
+          "social_medias": {
+               "\u0412\u041a\u043e\u043d\u0442\u0430\u043a\u0442\u0435": "https://vk.com/mvideo", 
+               "Twitter": "https://twitter.com/mvideo", 
+               "\u041e\u0434\u043d\u043e\u043a\u043b\u0430\u0441\u0441\u043d\u0438\u043a\u0438": "https://ok.ru/mvideo", 
+               "YouTube": "https://youtube.com/user/wwwmvideoru/featured", 
+               "WhatsApp": "https://wa.me/79626007775?text=%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%D1%82%D0%B5!%0A%0A%D0%9F%D0%B8%D1%88%D1%83%20%D0%B8%D0%B7%20%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F%202%D0%93%D0%98%D0%A1.%0A%0A", 
+               "Telegram": "https://t.me/mvideo_official_bot"
+          }, 
+          "website": "http://link.2gis.com/1.2/8EE9976F/online/20230401/project32/70000001044829742/null/3kokk46B3AG2A11301IGGGG2bvjui495G6G46C799A4A773HqEpt7A3BAJ74G4IG1JG4IJ4JfxgEuv6B0C5911167A1H1JJ1Ab?http://mvideo.ru/?utm_source=2gis&utm_medium=cpc&utm_campaign=mg_Flight_RF_FED_2GIS_Geocontext&utm_content=msk", 
+          "mail": null
+     }, 
+     {
+          "name": "re:Store", 
+          "occupancy": "\u041e\u0444\u0438\u0446\u0438\u0430\u043b\u044c\u043d\u044b\u0439 \u043f\u0430\u0440\u0442\u043d\u0435\u0440 Apple", 
+          "rating": 4.9, 
+          "firm_id": "https://2gis.kz/moscow/firm/70000001058925319", 
+          "address": {
+               "street": {
+                    "text": "\u041f\u0430\u0432\u0435\u043b\u0435\u0446\u043a\u0430\u044f \u043f\u043b\u043e\u0449\u0430\u0434\u044c,3", 
+                    "link": "/moscow/geo/70030076192434623"
+               }, 
+               "floor": "\u041f\u0430\u0432\u0435\u043b\u0435\u0446\u043a\u0430\u044f \u043f\u043b\u043e\u0449\u0430\u0434\u044c,3", 
+               "city": "\u0417\u0430\u043c\u043e\u0441\u043a\u0432\u043e\u0440\u0435\u0447\u044c\u0435 \u0440\u0430\u0439\u043e\u043d, \u041c\u043e\u0441\u043a\u0432\u0430, 115114"
+          }, 
+          "about": "\u041e\u0444\u0438\u0446\u0438\u0430\u043b\u044c\u043d\u044b\u0439 \u043f\u0430\u0440\u0442\u043d\u0435\u0440 Apple", 
+          "phone_number": "tel:+74951092382", 
+          "social_medias": {
+               "\u0412\u041a\u043e\u043d\u0442\u0430\u043a\u0442\u0435": "https://vk.com/re_store", 
+               "YouTube": "https://youtube.com/user/restoreapr", 
+               "Telegram": "https://t.me/restore_ru"
+          }, 
+          "website": "http://link.2gis.com/1.2/CFE66B46/online/20230401/project32/70000001058925319/null/o42gzn6B3AG2A11301IGGGG28romy195G6G46C799A4634AHqEpt7A3BAJ74G4IG1JG4IJ4Js6ihuv6B0C591117BB1H1JJ1fb?http://re-store.ru", 
+          "mail": "re-store.ru"
+     }, 
+     {
+          "name": "re:Store", 
+          "occupancy": "\u041e\u0444\u0438\u0446\u0438\u0430\u043b\u044c\u043d\u044b\u0439 \u043f\u0430\u0440\u0442\u043d\u0435\u0440 Apple", 
+          "rating": 2.6, 
+          "firm_id": "https://2gis.kz/moscow/firm/70000001006920125", 
+          "address": {
+               "street": {
+                    "text": "\u0425\u043e\u0434\u044b\u043d\u0441\u043a\u0438\u0439 \u0431\u0443\u043b\u044c\u0432\u0430\u0440,4", 
+                    "link": "/moscow/geo/4504235283134799"
+               }, 
+               "floor": "\u0425\u043e\u0434\u044b\u043d\u0441\u043a\u0438\u0439 \u0431\u0443\u043b\u044c\u0432\u0430\u0440,4", 
+               "city": "\u0425\u043e\u0440\u043e\u0448\u0451\u0432\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d, \u041c\u043e\u0441\u043a\u0432\u0430, 125252"
+          }, 
+          "about": "\u041e\u0444\u0438\u0446\u0438\u0430\u043b\u044c\u043d\u044b\u0439 \u043f\u0430\u0440\u0442\u043d\u0435\u0440 Apple", 
+          "phone_number": "tel:+74952870753", 
+          "social_medias": {
+               "\u0412\u041a\u043e\u043d\u0442\u0430\u043a\u0442\u0435": "https://vk.com/re_store", 
+               "YouTube": "https://youtube.com/user/restoreapr", 
+               "Telegram": "https://t.me/restore_ru"
+          }, 
+          "website": "http://link.2gis.com/1.2/E1424BF7/online/20230401/project32/70000001006920125/null/Ami5E86B3AG2A11301IGGGG2edAfnk95G6G46C799A41156HqEpt7A3BAJ74G4IG1JG4IJ4Jpqcfuv6B0C5911129B1H1JJ11A?http://re-store.ru", 
+          "mail": "re-store.ru"
+     }, 
+     {
+          "name": "DNS", 
+          "occupancy": "\u041c\u0430\u0433\u0430\u0437\u0438\u043d \u0446\u0438\u0444\u0440\u043e\u0432\u043e\u0439 \u0438 \u0431\u044b\u0442\u043e\u0432\u043e\u0439 \u0442\u0435\u0445\u043d\u0438\u043a\u0438", 
+          "rating": 2.8, 
+          "firm_id": "https://2gis.kz/moscow/firm/70000001050236119", 
+          "address": {
+               "street": {
+                    "text": "\u041d\u043e\u0432\u043e\u0441\u043b\u043e\u0431\u043e\u0434\u0441\u043a\u0430\u044f \u0443\u043b\u0438\u0446\u0430,4", 
+                    "link": "/moscow/geo/4504235282737064"
+               }, 
+               "floor": "\u041d\u043e\u0432\u043e\u0441\u043b\u043e\u0431\u043e\u0434\u0441\u043a\u0430\u044f \u0443\u043b\u0438\u0446\u0430,4", 
+               "city": "\u0422\u0432\u0435\u0440\u0441\u043a\u043e\u0439 \u0440\u0430\u0439\u043e\u043d, \u041c\u043e\u0441\u043a\u0432\u0430, 127055"
+          }, 
+          "about": "\u041c\u0430\u0433\u0430\u0437\u0438\u043d \u0446\u0438\u0444\u0440\u043e\u0432\u043e\u0439 \u0438 \u0431\u044b\u0442\u043e\u0432\u043e\u0439 \u0442\u0435\u0445\u043d\u0438\u043a\u0438", 
+          "phone_number": null, 
+          "social_medias": {
+               "Telegram": "https://t.me/dns_club"
+          }, 
+          "website": "/moscow/branches/70000001041583354", 
+          "mail": null
+     }, 
+     {
+          "name": "Wishmaster", 
+          "occupancy": "\u0418\u043d\u0442\u0435\u0440\u043d\u0435\u0442-\u043c\u0430\u0433\u0430\u0437\u0438\u043d", 
+          "rating": 4.6, 
+          "firm_id": "https://2gis.kz/moscow/firm/70000001035039148", 
+          "address": {
+               "street": {
+                    "text": "\u0411\u0430\u0433\u0440\u0430\u0442\u0438\u043e\u043d\u043e\u0432\u0441\u043a\u0438\u0439 \u043f\u0440\u043e\u0435\u0437\u0434,7 \u043a20\u0432", 
+                    "link": "/moscow/geo/4504235282688326"
+               }, 
+               "floor": "\u0411\u0430\u0433\u0440\u0430\u0442\u0438\u043e\u043d\u043e\u0432\u0441\u043a\u0438\u0439 \u043f\u0440\u043e\u0435\u0437\u0434,7 \u043a20\u0432", 
+               "city": "\u0424\u0438\u043b\u0451\u0432\u0441\u043a\u0438\u0439 \u043f\u0430\u0440\u043a \u0440\u0430\u0439\u043e\u043d, \u041c\u043e\u0441\u043a\u0432\u0430, 121087"
+          }, 
+          "about": "\u0418\u043d\u0442\u0435\u0440\u043d\u0435\u0442-\u043c\u0430\u0433\u0430\u0437\u0438\u043d", 
+          "phone_number": "tel:+74951774935", 
+          "social_medias": {
+               "\u0412\u041a\u043e\u043d\u0442\u0430\u043a\u0442\u0435": "https://vk.com/wishmastr"
+          }, 
+          "website": "http://link.2gis.com/1.2/2981B47F/online/20230401/project32/70000001035039148/null/5xnlfl6B3AG2A11301IGGGG2Al3u5p95G6G46C799A5A179HqEpt7A3BAJ74G4IG1JG4IJ4Jjfi4uv6B0C591115821H1JJ16e?http://wishmaster.me", 
+          "mail": "wishmaster.me"
+     }, 
+     {
+          "name": "\u0422\u0435\u0445\u043d\u043e\u043f\u0430\u0440\u043a", 
+          "occupancy": "\u0421\u0435\u0442\u044c \u043c\u0430\u0433\u0430\u0437\u0438\u043d\u043e\u0432 \u0431\u044b\u0442\u043e\u0432\u043e\u0439 \u0442\u0435\u0445\u043d\u0438\u043a\u0438 \u0438 \u044d\u043b\u0435\u043a\u0442\u0440\u043e\u043d\u0438\u043a\u0438", 
+          "rating": 3.5, 
+          "firm_id": "https://2gis.kz/moscow/firm/70000001027190489", 
+          "address": {
+               "street": {
+                    "text": "\u0421\u0435\u0432\u0430\u0441\u0442\u043e\u043f\u043e\u043b\u044c\u0441\u043a\u0438\u0439 \u043f\u0440\u043e\u0441\u043f\u0435\u043a\u0442,11\u0435", 
+                    "link": "/moscow/geo/4504235282705487"
+               }, 
+               "floor": "\u0421\u0435\u0432\u0430\u0441\u0442\u043e\u043f\u043e\u043b\u044c\u0441\u043a\u0438\u0439 \u043f\u0440\u043e\u0441\u043f\u0435\u043a\u0442,11\u0435", 
+               "city": "\u041a\u043e\u0442\u043b\u043e\u0432\u043a\u0430 \u0440\u0430\u0439\u043e\u043d, \u041c\u043e\u0441\u043a\u0432\u0430, 117447"
+          }, 
+          "about": "\u0421\u0435\u0442\u044c \u043c\u0430\u0433\u0430\u0437\u0438\u043d\u043e\u0432 \u0431\u044b\u0442\u043e\u0432\u043e\u0439 \u0442\u0435\u0445\u043d\u0438\u043a\u0438 \u0438 \u044d\u043b\u0435\u043a\u0442\u0440\u043e\u043d\u0438\u043a\u0438", 
+          "phone_number": "tel:88001005588", 
+          "social_medias": {
+               "\u0412\u041a\u043e\u043d\u0442\u0430\u043a\u0442\u0435": "https://vk.com/technoparkru", 
+               "\u041e\u0434\u043d\u043e\u043a\u043b\u0430\u0441\u0441\u043d\u0438\u043a\u0438": "https://ok.ru/group/technopark", 
+               "Telegram": "https://t.me/technopark_ru"
+          }, 
+          "website": "http://link.2gis.com/1.2/B1E7FE89/online/20230401/project32/70000001027190489/null/x6fsjA6B3AG2A11301IGGGG2trw4xA95G6G46C799AB14BAHqEpt7A3BAJ74G4IG1JG4IJ4Jbelmuv6B0C591114A31H1JJ19e?http://technopark.ru/?utm_source=2gis&utm_medium=cpc&utm_campaign=2gis&utm_content=msk", 
+          "mail": "technopark.ru"
+     }, 
+     {
+          "name": "Apple god", 
+          "occupancy": "\u0418\u043d\u0442\u0435\u0440\u043d\u0435\u0442-\u043c\u0430\u0433\u0430\u0437\u0438\u043d", 
+          "rating": 5.0, 
+          "firm_id": "https://2gis.kz/moscow/firm/70000001051485292", 
+          "address": {
+               "street": {
+                    "text": "\u0411\u0430\u0433\u0440\u0430\u0442\u0438\u043e\u043d\u043e\u0432\u0441\u043a\u0438\u0439 \u043f\u0440\u043e\u0435\u0437\u0434,7 \u043a20\u0432", 
+                    "link": "/moscow/geo/4504235282688326"
+               }, 
+               "floor": "\u0411\u0430\u0433\u0440\u0430\u0442\u0438\u043e\u043d\u043e\u0432\u0441\u043a\u0438\u0439 \u043f\u0440\u043e\u0435\u0437\u0434,7 \u043a20\u0432", 
+               "city": "\u0424\u0438\u043b\u0451\u0432\u0441\u043a\u0438\u0439 \u043f\u0430\u0440\u043a \u0440\u0430\u0439\u043e\u043d, \u041c\u043e\u0441\u043a\u0432\u0430, 121087"
+          }, 
+          "about": "\u0418\u043d\u0442\u0435\u0440\u043d\u0435\u0442-\u043c\u0430\u0433\u0430\u0437\u0438\u043d", 
+          "phone_number": "tel:+74951248600", 
+          "social_medias": {
+               "\u0412\u041a\u043e\u043d\u0442\u0430\u043a\u0442\u0435": "https://vk.com/applegod", 
+               "WhatsApp": "https://wa.me/79168666911?text=%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%D1%82%D0%B5!%0A%0A%D0%9F%D0%B8%D1%88%D1%83%20%D0%B8%D0%B7%20%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F%202%D0%93%D0%98%D0%A1.%0A%0A"
+          }, 
+          "website": "http://link.2gis.com/1.2/D4189C44/online/20230401/project32/70000001051485292/null/o42gzn6B3AG2A11301IGGGG28romy195G6G46C799AA62C3HqEpt7A3BAJ74G4IG1JG4IJ4Js6ihuv6B0C591117461H1JJ1cf?http://applegod.ru", 
+          "mail": "applegod.ru"
+     }, 
+     {
+          "name": "\u041c.\u0412\u0438\u0434\u0435\u043e", 
+          "occupancy": "\u0421\u0435\u0442\u044c \u043c\u0430\u0433\u0430\u0437\u0438\u043d\u043e\u0432 \u0442\u0435\u0445\u043d\u0438\u043a\u0438", 
+          "rating": 4.1, 
+          "firm_id": "https://2gis.kz/moscow/firm/4504127908355246", 
+          "address": {
+               "street": {
+                    "text": "\u0423\u043b\u0438\u0446\u0430 \u041a\u0440\u0430\u0441\u043d\u0430\u044f \u041f\u0440\u0435\u0441\u043d\u044f,23 \u043a \u0411 \u0441\u04421", 
+                    "link": "/moscow/geo/4504235282784320"
+               }, 
+               "floor": "1, 2 \u044d\u0442\u0430\u0436", 
+               "city": "\u041f\u0440\u0435\u0441\u043d\u0435\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d, \u041c\u043e\u0441\u043a\u0432\u0430, 123022"
+          }, 
+          "about": "\u0421\u0435\u0442\u044c \u043c\u0430\u0433\u0430\u0437\u0438\u043d\u043e\u0432 \u0442\u0435\u0445\u043d\u0438\u043a\u0438", 
+          "phone_number": "tel:88006007775", 
+          "social_medias": {
+               "\u0412\u041a\u043e\u043d\u0442\u0430\u043a\u0442\u0435": "https://vk.com/mvideo", 
+               "Twitter": "https://twitter.com/mvideo", 
+               "\u041e\u0434\u043d\u043e\u043a\u043b\u0430\u0441\u0441\u043d\u0438\u043a\u0438": "https://ok.ru/mvideo", 
+               "YouTube": "https://youtube.com/user/wwwmvideoru/featured", 
+               "WhatsApp": "https://wa.me/79626007775?text=%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%D1%82%D0%B5!%0A%0A%D0%9F%D0%B8%D1%88%D1%83%20%D0%B8%D0%B7%20%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F%202%D0%93%D0%98%D0%A1.%0A%0A", 
+               "Telegram": "https://t.me/mvideo_official_bot"
+          }, 
+          "website": "http://link.2gis.com/1.2/7C659C7A/online/20230401/project32/4504127908355246/null/x6fsjA6B3AG2761713IGGG2btrw4xA95G6G46C799A7349H1qEpt7A3BAJ74G4IG1J1JI7GJbelmuv6B0C59891A67H1HJ3H2?http://mvideo.ru/?utm_source=2gis&utm_medium=cpc&utm_campaign=mg_Flight_RF_FED_2GIS_Geocontext&utm_content=msk", 
+          "mail": "mvideo.ru"
+     }, 
+     {
+          "name": "\u042d\u043b\u044c\u0434\u043e\u0440\u0430\u0434\u043e", 
+          "occupancy": "\u0421\u0435\u0442\u044c \u043c\u0430\u0433\u0430\u0437\u0438\u043d\u043e\u0432 \u0431\u044b\u0442\u043e\u0432\u043e\u0439 \u0442\u0435\u0445\u043d\u0438\u043a\u0438 \u0438 \u044d\u043b\u0435\u043a\u0442\u0440\u043e\u043d\u0438\u043a\u0438", 
+          "rating": 4.0, 
+          "firm_id": "https://2gis.kz/moscow/firm/70000001041093646", 
+          "address": {
+               "street": {
+                    "text": "\u0423\u043b\u0438\u0446\u0430 \u041b\u0435\u043d\u0438\u043d\u0441\u043a\u0430\u044f \u0421\u043b\u043e\u0431\u043e\u0434\u0430,26 \u0441\u04422", 
+                    "link": "/moscow/geo/4504235283002131"
+               }, 
+               "floor": "\u0423\u043b\u0438\u0446\u0430 \u041b\u0435\u043d\u0438\u043d\u0441\u043a\u0430\u044f \u0421\u043b\u043e\u0431\u043e\u0434\u0430,26 \u0441\u04422", 
+               "city": "\u0414\u0430\u043d\u0438\u043b\u043e\u0432\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d, \u041c\u043e\u0441\u043a\u0432\u0430, 115280"
+          }, 
+          "about": "\u0421\u0435\u0442\u044c \u043c\u0430\u0433\u0430\u0437\u0438\u043d\u043e\u0432 \u0431\u044b\u0442\u043e\u0432\u043e\u0439 \u0442\u0435\u0445\u043d\u0438\u043a\u0438 \u0438 \u044d\u043b\u0435\u043a\u0442\u0440\u043e\u043d\u0438\u043a\u0438", 
+          "phone_number": "tel:88002502525", 
+          "social_medias": {
+               "\u041e\u0434\u043d\u043e\u043a\u043b\u0430\u0441\u0441\u043d\u0438\u043a\u0438": "https://ok.ru/eldorado.stores", 
+               "YouTube": "https://youtube.com/user/eldoradovideo", 
+               "\u0412\u041a\u043e\u043d\u0442\u0430\u043a\u0442\u0435": "https://vk.com/eldorado_stores", 
+               "Telegram": "https://t.me/eldorado_official_bot"
+          }, 
+          "website": "http://link.2gis.com/1.2/45F4722A/online/20230401/project32/70000001041093646/null/BF3m3x6B3AG2A11301IGGGG2v1t9xg95G6G46C7A01B4677HqEpt7A421J74G4IG1JG4IJ4JtiDduv6B0C591116421H1JJ13b?http://www.eldorado.ru/?utm_source=2gis&utm_medium=cpc&utm_campaign=mg_Flight_RF_FED_2GIS_Geocontext&utm_content=msk", 
+          "mail": "www.eldorado.ru"
+     }, 
+     {
+          "name": "Appleavenue", 
+          "occupancy": "\u0418\u043d\u0442\u0435\u0440\u043d\u0435\u0442-\u043c\u0430\u0433\u0430\u0437\u0438\u043d", 
+          "rating": 2.3, 
+          "firm_id": "https://2gis.kz/moscow/firm/4504127920590612", 
+          "address": null, 
+          "about": "\u0418\u043d\u0442\u0435\u0440\u043d\u0435\u0442-\u043c\u0430\u0433\u0430\u0437\u0438\u043d", 
+          "phone_number": "tel:+74959840607", 
+          "social_medias": {
+               "\u0412\u041a\u043e\u043d\u0442\u0430\u043a\u0442\u0435": "https://vk.com/appavenue_ru", 
+               "WhatsApp": "https://wa.me/79037299060?text=%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%D1%82%D0%B5!%0A%0A%D0%9F%D0%B8%D1%88%D1%83%20%D0%B8%D0%B7%20%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F%202%D0%93%D0%98%D0%A1.%0A%0A"
+          }, 
+          "website": "http://link.2gis.com/1.2/3886B912/online/20230401/project32/4504127920590612/null/o42gzn6B3AG2761713IGGG278romy195G6G46C799A2715H1qEpt7A3BAJ74G4IG1J1JI7GJs6ihuv6B0C5989328BH1HJ3Hd?http://apple-avenue.ru", 
+          "mail": "apple-avenue.ru"
+     }, 
+     {
+          "name": "APPLETRADE", 
+          "occupancy": "\u0422\u043e\u0440\u0433\u043e\u0432\u043e-\u0441\u0435\u0440\u0432\u0438\u0441\u043d\u044b\u0439 \u0446\u0435\u043d\u0442\u0440", 
+          "rating": 5.0, 
+          "firm_id": "https://2gis.kz/moscow/firm/70000001033948802", 
+          "address": {
+               "street": {
+                    "text": "\u0423\u043b\u0438\u0446\u0430 \u0411\u0430\u0440\u043a\u043b\u0430\u044f,7 \u043a4", 
+                    "link": "/moscow/geo/4504235294355752"
+               }, 
+               "floor": "1 \u044d\u0442\u0430\u0436", 
+               "city": "\u0424\u0438\u043b\u0451\u0432\u0441\u043a\u0438\u0439 \u043f\u0430\u0440\u043a \u0440\u0430\u0439\u043e\u043d, \u041c\u043e\u0441\u043a\u0432\u0430, 121096"
+          }, 
+          "about": "\u0422\u043e\u0440\u0433\u043e\u0432\u043e-\u0441\u0435\u0440\u0432\u0438\u0441\u043d\u044b\u0439 \u0446\u0435\u043d\u0442\u0440", 
+          "phone_number": "tel:+79267776277", 
+          "social_medias": {
+               "\u0412\u041a\u043e\u043d\u0442\u0430\u043a\u0442\u0435": "https://vk.com/appletrade", 
+               "WhatsApp": "https://wa.me/79267776277?text=%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%D1%82%D0%B5!%0A%0A%D0%9F%D0%B8%D1%88%D1%83%20%D0%B8%D0%B7%20%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F%202%D0%93%D0%98%D0%A1.%0A%0A", 
+               "Telegram": "https://t.me/appletradestaff"
+          }, 
+          "website": "http://link.2gis.com/1.2/02D7A3D8/online/20230401/project32/70000001033948802/null/o42gzn6B3AG2A11301IGGGG28romy195G6G46C799A69833HqEpt7A3BAJ74G4IG1JG4IJ4Js6ihuv6B0C5911156B1H1JJ1A7?http://appletrade.ru", 
+          "mail": "appletrade.ru"
+     }, 
+     {
+          "name": "re:Store", 
+          "occupancy": "\u041e\u0444\u0438\u0446\u0438\u0430\u043b\u044c\u043d\u044b\u0439 \u043f\u0430\u0440\u0442\u043d\u0435\u0440 Apple", 
+          "rating": 2.9, 
+          "firm_id": "https://2gis.kz/moscow/firm/4504127908371258", 
+          "address": {
+               "street": {
+                    "text": "\u0417\u0435\u043c\u043b\u044f\u043d\u043e\u0439 \u0412\u0430\u043b \u0443\u043b\u0438\u0446\u0430,33", 
+                    "link": "/moscow/geo/4504235282678137"
+               }, 
+               "floor": "\u0417\u0435\u043c\u043b\u044f\u043d\u043e\u0439 \u0412\u0430\u043b \u0443\u043b\u0438\u0446\u0430,33", 
+               "city": "\u0411\u0430\u0441\u043c\u0430\u043d\u043d\u044b\u0439 \u0440\u0430\u0439\u043e\u043d, \u041c\u043e\u0441\u043a\u0432\u0430, 105064"
+          }, 
+          "about": "\u041e\u0444\u0438\u0446\u0438\u0430\u043b\u044c\u043d\u044b\u0439 \u043f\u0430\u0440\u0442\u043d\u0435\u0440 Apple", 
+          "phone_number": "tel:+74959267155", 
+          "social_medias": {
+               "\u0412\u041a\u043e\u043d\u0442\u0430\u043a\u0442\u0435": "https://vk.com/re_store", 
+               "YouTube": "https://youtube.com/user/restoreapr", 
+               "Telegram": "https://t.me/restore_ru"
+          }, 
+          "website": "http://link.2gis.com/1.2/CD1A7932/online/20230401/project32/4504127908371258/null/8ro6j86B3AG2761713IGGG25237fbl95G6G46C799A335BH1qEpt7A3BAJ74G4IG1J1JI7GJAoukuv6B0C59891A69H1HJ3H6?http://re-store.ru", 
+          "mail": "re-store.ru"
+     }, 
+     {
+          "name": "re:Store", 
+          "occupancy": "\u041e\u0444\u0438\u0446\u0438\u0430\u043b\u044c\u043d\u044b\u0439 \u043f\u0430\u0440\u0442\u043d\u0435\u0440 Apple", 
+          "rating": 2.0, 
+          "firm_id": "https://2gis.kz/moscow/firm/4504127920053405", 
+          "address": {
+               "street": {
+                    "text": "\u0422\u0432\u0435\u0440\u0441\u043a\u0430\u044f \u0443\u043b\u0438\u0446\u0430,27 \u0441\u04422", 
+                    "link": "/moscow/geo/4504235282746956"
+               }, 
+               "floor": "1 \u044d\u0442\u0430\u0436", 
+               "city": "\u0422\u0432\u0435\u0440\u0441\u043a\u043e\u0439 \u0440\u0430\u0439\u043e\u043d, \u041c\u043e\u0441\u043a\u0432\u0430, 125009"
+          }, 
+          "about": "\u041e\u0444\u0438\u0446\u0438\u0430\u043b\u044c\u043d\u044b\u0439 \u043f\u0430\u0440\u0442\u043d\u0435\u0440 Apple", 
+          "phone_number": null, 
+          "social_medias": {
+               "\u0412\u041a\u043e\u043d\u0442\u0430\u043a\u0442\u0435": "https://vk.com/re_store", 
+               "YouTube": "https://youtube.com/user/restoreapr", 
+               "Telegram": "https://t.me/restore_ru"
+          }, 
+          "website": "http://link.2gis.com/1.2/00C87B09/online/20230401/project32/4504127920053405/null/wAfyAD6B3AG2761713IGGG24e4zDdg95G6G46C799A5508H1qEpt7A3BAJ74G4IG1J1JI7GJqbd9uv6B0C59893237H1HJ3H7?http://re-store.ru", 
+          "mail": null
+     }, 
+     {
+          "name": "Apple jabuka", 
+          "occupancy": "\u0421\u0435\u0440\u0432\u0438\u0441\u043d\u044b\u0439 \u0446\u0435\u043d\u0442\u0440", 
+          "rating": 4.1, 
+          "firm_id": "https://2gis.kz/moscow/firm/4504128908785254", 
+          "address": {
+               "street": {
+                    "text": "\u0425\u043e\u0445\u043b\u043e\u0432\u0441\u043a\u0438\u0439 \u043f\u0435\u0440\u0435\u0443\u043b\u043e\u043a,7-9 \u0441\u04422", 
+                    "link": "/moscow/geo/4504235282743515"
+               }, 
+               "floor": "11 \u043e\u0444\u0438\u0441; \u0446\u043e\u043a\u043e\u043b\u044c\u043d\u044b\u0439 \u044d\u0442\u0430\u0436; 2 \u043f\u043e\u0434\u044a\u0435\u0437\u0434", 
+               "city": "\u0411\u0430\u0441\u043c\u0430\u043d\u043d\u044b\u0439 \u0440\u0430\u0439\u043e\u043d, \u041c\u043e\u0441\u043a\u0432\u0430, 101000"
+          }, 
+          "about": "\u0421\u0435\u0440\u0432\u0438\u0441\u043d\u044b\u0439 \u0446\u0435\u043d\u0442\u0440", 
+          "phone_number": "tel:+74997046447", 
+          "social_medias": {
+               "YouTube": "https://youtube.com/jabukaservice"
+          }, 
+          "website": "http://link.2gis.com/1.2/C38FE37A/online/20230401/project32/4504128908785254/null/76qrA86B3AG2761713IGGG283kvDt795G6G46C799A7357H1qEpt7A3BAJ74G4IG1J1JI7GJt3euuv6B0C59991AAAH1HJ3Hg?http://jabuka.ru", 
+          "mail": "jabuka.ru"
+     }, 
+     {
+          "name": "DNS", 
+          "occupancy": "\u041c\u0430\u0433\u0430\u0437\u0438\u043d \u0446\u0438\u0444\u0440\u043e\u0432\u043e\u0439 \u0438 \u0431\u044b\u0442\u043e\u0432\u043e\u0439 \u0442\u0435\u0445\u043d\u0438\u043a\u0438", 
+          "rating": 2.5, 
+          "firm_id": "https://2gis.kz/moscow/firm/70000001050247237", 
+          "address": {
+               "street": {
+                    "text": "\u041f\u0440\u0435\u0441\u043d\u0435\u043d\u0441\u043a\u0430\u044f \u043d\u0430\u0431\u0435\u0440\u0435\u0436\u043d\u0430\u044f,2", 
+                    "link": "/moscow/geo/4504235282796239"
+               }, 
+               "floor": "\u041f\u0440\u0435\u0441\u043d\u0435\u043d\u0441\u043a\u0430\u044f \u043d\u0430\u0431\u0435\u0440\u0435\u0436\u043d\u0430\u044f,2", 
+               "city": "\u041f\u0440\u0435\u0441\u043d\u0435\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d, \u041c\u043e\u0441\u043a\u0432\u0430, 123112"
+          }, 
+          "about": "\u041c\u0430\u0433\u0430\u0437\u0438\u043d \u0446\u0438\u0444\u0440\u043e\u0432\u043e\u0439 \u0438 \u0431\u044b\u0442\u043e\u0432\u043e\u0439 \u0442\u0435\u0445\u043d\u0438\u043a\u0438", 
+          "phone_number": null, 
+          "social_medias": {
+               "Telegram": "https://t.me/dns_club"
+          }, 
+          "website": "/moscow/branches/70000001041583354", 
+          "mail": null
+     }, 
+     {
+          "name": "\u0417\u043e\u043b\u043e\u0442\u043e\u0435 \u044f\u0431\u043b\u043e\u043a\u043e", 
+          "occupancy": "\u041f\u0430\u0440\u0444\u044e\u043c\u0435\u0440\u043d\u044b\u0439 \u0441\u0443\u043f\u0435\u0440\u043c\u0430\u0440\u043a\u0435\u0442", 
+          "rating": 4.1, 
+          "firm_id": "https://2gis.kz/moscow/firm/70000001058949035", 
+          "address": {
+               "street": {
+                    "text": "\u0422\u0440\u0443\u0431\u043d\u0430\u044f \u043f\u043b\u043e\u0449\u0430\u0434\u044c,2", 
+                    "link": "/moscow/geo/4504235282758873"
+               }, 
+               "floor": "\u0422\u0440\u0443\u0431\u043d\u0430\u044f \u043f\u043b\u043e\u0449\u0430\u0434\u044c,2", 
+               "city": "\u041c\u0435\u0449\u0430\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d, \u041c\u043e\u0441\u043a\u0432\u0430, 107031"
+          }, 
+          "about": "\u041f\u0430\u0440\u0444\u044e\u043c\u0435\u0440\u043d\u044b\u0439 \u0441\u0443\u043f\u0435\u0440\u043c\u0430\u0440\u043a\u0435\u0442", 
+          "phone_number": null, 
+          "social_medias": {
+               "\u0412\u041a\u043e\u043d\u0442\u0430\u043a\u0442\u0435": "https://vk.com/goldapple_ru", 
+               "YouTube": "https://youtube.com/channel/UC5vsg5-xOIT0N-jilqFSz_w", 
+               "WhatsApp": "https://wa.me/78007707021?text=%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%D1%82%D0%B5!%0A%0A%D0%9F%D0%B8%D1%88%D1%83%20%D0%B8%D0%B7%20%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F%202%D0%93%D0%98%D0%A1.%0A%0A", 
+               "Telegram": "https://t.me/goldapple_ru"
+          }, 
+          "website": "http://link.2gis.com/1.2/7D6135A6/online/20230401/project32/70000001058949035/null/6x4qf56B3AG2A11301IGGGG2wjlztx95G6G46C7A016A066HqEpt7A421J74G4IG1JG4IJ4JgDAAuv6B0C591117BB1H1JJ1A2?http://www.goldapple.ru", 
+          "mail": null
+     }, 
+     {
+          "name": "\u0417\u043e\u043b\u043e\u0442\u043e\u0435 \u044f\u0431\u043b\u043e\u043a\u043e", 
+          "occupancy": "\u041f\u0430\u0440\u0444\u044e\u043c\u0435\u0440\u043d\u044b\u0439 \u0441\u0443\u043f\u0435\u0440\u043c\u0430\u0440\u043a\u0435\u0442", 
+          "rating": 4.0, 
+          "firm_id": "https://2gis.kz/moscow/firm/70000001058881868", 
+          "address": {
+               "street": {
+                    "text": "\u041f\u0430\u0432\u0435\u043b\u0435\u0446\u043a\u0430\u044f \u043f\u043b\u043e\u0449\u0430\u0434\u044c,3", 
+                    "link": "/moscow/geo/70030076192434623"
+               }, 
+               "floor": "\u041f\u0430\u0432\u0435\u043b\u0435\u0446\u043a\u0430\u044f \u043f\u043b\u043e\u0449\u0430\u0434\u044c,3", 
+               "city": "\u0417\u0430\u043c\u043e\u0441\u043a\u0432\u043e\u0440\u0435\u0447\u044c\u0435 \u0440\u0430\u0439\u043e\u043d, \u041c\u043e\u0441\u043a\u0432\u0430, 115114"
+          }, 
+          "about": "\u041f\u0430\u0440\u0444\u044e\u043c\u0435\u0440\u043d\u044b\u0439 \u0441\u0443\u043f\u0435\u0440\u043c\u0430\u0440\u043a\u0435\u0442", 
+          "phone_number": "tel:88007707021", 
+          "social_medias": {
+               "\u0412\u041a\u043e\u043d\u0442\u0430\u043a\u0442\u0435": "https://vk.com/goldapple_ru", 
+               "YouTube": "https://youtube.com/channel/UC5vsg5-xOIT0N-jilqFSz_w", 
+               "WhatsApp": "https://wa.me/78007707021?text=%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%D1%82%D0%B5!%0A%0A%D0%9F%D0%B8%D1%88%D1%83%20%D0%B8%D0%B7%20%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F%202%D0%93%D0%98%D0%A1.%0A%0A", 
+               "Telegram": "https://t.me/goldapple_ru"
+          }, 
+          "website": "http://link.2gis.com/1.2/90896676/online/20230401/project32/70000001058881868/null/Ami5E86B3AG2A11301IGGGG2edAfnk95G6G46C7A01A2899HqEpt7A421J74G4IG1JG4IJ4Jpqcfuv6B0C591117BA1H1JJ1c8?http://www.goldapple.ru", 
+          "mail": "www.goldapple.ru"
+     }, 
+     {
+          "name": "\u0417\u043e\u043b\u043e\u0442\u043e\u0435 \u044f\u0431\u043b\u043e\u043a\u043e", 
+          "occupancy": "\u041f\u0430\u0440\u0444\u044e\u043c\u0435\u0440\u043d\u044b\u0439 \u0441\u0443\u043f\u0435\u0440\u043c\u0430\u0440\u043a\u0435\u0442", 
+          "rating": 3.9, 
+          "firm_id": "https://2gis.kz/moscow/firm/70000001027636084", 
+          "address": {
+               "street": {
+                    "text": "\u041f\u0440\u0435\u0441\u043d\u0435\u043d\u0441\u043a\u0430\u044f \u043d\u0430\u0431\u0435\u0440\u0435\u0436\u043d\u0430\u044f,2", 
+                    "link": "/moscow/geo/4504235282796239"
+               }, 
+               "floor": "\u041f\u0440\u0435\u0441\u043d\u0435\u043d\u0441\u043a\u0430\u044f \u043d\u0430\u0431\u0435\u0440\u0435\u0436\u043d\u0430\u044f,2", 
+               "city": "\u041f\u0440\u0435\u0441\u043d\u0435\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d, \u041c\u043e\u0441\u043a\u0432\u0430, 123112"
+          }, 
+          "about": "\u041f\u0430\u0440\u0444\u044e\u043c\u0435\u0440\u043d\u044b\u0439 \u0441\u0443\u043f\u0435\u0440\u043c\u0430\u0440\u043a\u0435\u0442", 
+          "phone_number": "tel:88007707021", 
+          "social_medias": {
+               "\u0412\u041a\u043e\u043d\u0442\u0430\u043a\u0442\u0435": "https://vk.com/goldapple_ru", 
+               "YouTube": "https://youtube.com/channel/UC5vsg5-xOIT0N-jilqFSz_w", 
+               "WhatsApp": "https://wa.me/78007707021?text=%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%D1%82%D0%B5!%0A%0A%D0%9F%D0%B8%D1%88%D1%83%20%D0%B8%D0%B7%20%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F%202%D0%93%D0%98%D0%A1.%0A%0A", 
+               "Telegram": "https://t.me/goldapple_ru"
+          }, 
+          "website": "http://link.2gis.com/1.2/E78F5AF1/online/20230401/project32/70000001027636084/null/q597946B3AG2A11301IGGGG2bxci4k95G6G46C7A01570B5HqEpt7A421J74G4IG1JG4IJ4JfD56uv6B0C591114A81H1JJ13e?http://www.goldapple.ru", 
+          "mail": "www.goldapple.ru"
+     }, 
+     {
+          "name": "\u0417\u043e\u043b\u043e\u0442\u043e\u0435 \u044f\u0431\u043b\u043e\u043a\u043e", 
+          "occupancy": "\u041f\u0430\u0440\u0444\u044e\u043c\u0435\u0440\u043d\u044b\u0439 \u0441\u0443\u043f\u0435\u0440\u043c\u0430\u0440\u043a\u0435\u0442", 
+          "rating": 3.1, 
+          "firm_id": "https://2gis.kz/moscow/firm/70000001049838821", 
+          "address": {
+               "street": {
+                    "text": "\u041f\u0440\u043e\u0441\u043f\u0435\u043a\u0442 \u041c\u0438\u0440\u0430,211", 
+                    "link": "/moscow/geo/4504235283007809"
+               }, 
+               "floor": "\u041f\u0440\u043e\u0441\u043f\u0435\u043a\u0442 \u041c\u0438\u0440\u0430,211", 
+               "city": "\u0421\u0432\u0438\u0431\u043b\u043e\u0432\u043e \u0440\u0430\u0439\u043e\u043d, \u041c\u043e\u0441\u043a\u0432\u0430, 129226"
+          }, 
+          "about": "\u041f\u0430\u0440\u0444\u044e\u043c\u0435\u0440\u043d\u044b\u0439 \u0441\u0443\u043f\u0435\u0440\u043c\u0430\u0440\u043a\u0435\u0442", 
+          "phone_number": "tel:88007707021", 
+          "social_medias": {
+               "\u0412\u041a\u043e\u043d\u0442\u0430\u043a\u0442\u0435": "https://vk.com/goldapple_ru", 
+               "YouTube": "https://youtube.com/channel/UC5vsg5-xOIT0N-jilqFSz_w", 
+               "WhatsApp": "https://wa.me/78007707021?text=%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%D1%82%D0%B5!%0A%0A%D0%9F%D0%B8%D1%88%D1%83%20%D0%B8%D0%B7%20%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F%202%D0%93%D0%98%D0%A1.%0A%0A", 
+               "Telegram": "https://t.me/goldapple_ru"
+          }, 
+          "website": "http://link.2gis.com/1.2/72729630/online/20230401/project32/70000001049838821/null/6x4qf56B3AG2A11301IGGGG2wjlztx95G6G46C7A0159852HqEpt7A421J74G4IG1JG4IJ4JgDAAuv6B0C591116CA1H1JJ17b?http://www.goldapple.ru", 
+          "mail": "www.goldapple.ru"
+     }, 
+     {
+          "name": "Apple Box", 
+          "occupancy": "\u041c\u0430\u0433\u0430\u0437\u0438\u043d", 
+          "rating": 3.4, 
+          "firm_id": "https://2gis.kz/moscow/firm/70000001040821951", 
+          "address": {
+               "street": {
+                    "text": "\u0427\u043e\u043d\u0433\u0430\u0440\u0441\u043a\u0438\u0439 \u0431\u0443\u043b\u044c\u0432\u0430\u0440,7", 
+                    "link": "/moscow/geo/70030076163255977"
+               }, 
+               "floor": "\u0427\u043e\u043d\u0433\u0430\u0440\u0441\u043a\u0438\u0439 \u0431\u0443\u043b\u044c\u0432\u0430\u0440,7", 
+               "city": "\u041d\u0430\u0433\u043e\u0440\u043d\u044b\u0439 \u0440\u0430\u0439\u043e\u043d, \u041c\u043e\u0441\u043a\u0432\u0430, 117556"
+          }, 
+          "about": "\u041c\u0430\u0433\u0430\u0437\u0438\u043d", 
+          "phone_number": "tel:88007707021", 
+          "social_medias": {
+               "\u0412\u041a\u043e\u043d\u0442\u0430\u043a\u0442\u0435": "https://vk.com/goldapple_ru", 
+               "YouTube": "https://youtube.com/channel/UC5vsg5-xOIT0N-jilqFSz_w", 
+               "WhatsApp": "https://wa.me/78007707021?text=%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%D1%82%D0%B5!%0A%0A%D0%9F%D0%B8%D1%88%D1%83%20%D0%B8%D0%B7%20%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F%202%D0%93%D0%98%D0%A1.%0A%0A", 
+               "Telegram": "https://t.me/goldapple_ru"
+          }, 
+          "website": "http://link.2gis.com/1.2/305A2C0A/online/20230401/project32/70000001040821951/null/5xnlfl6B3AG2A11301IGGGG2Al3u5p95G6G46C7A0142982HqEpt7A421J74G4IG1JG4IJ4Jjfi4uv6B0C5911163A1H1JJ124?http://www.goldapple.ru", 
+          "mail": "www.goldapple.ru"
+     }, 
+     {
+          "name": "Apple", 
+          "occupancy": "\u041f\u0440\u0435\u0434\u0441\u0442\u0430\u0432\u0438\u0442\u0435\u043b\u044c\u0441\u0442\u0432\u043e \u0432 \u0420\u043e\u0441\u0441\u0438\u0438", 
+          "rating": null, 
+          "firm_id": "https://2gis.kz/moscow/firm/4504127921060361", 
+          "address": null, 
+          "about": "\u041f\u0440\u0435\u0434\u0441\u0442\u0430\u0432\u0438\u0442\u0435\u043b\u044c\u0441\u0442\u0432\u043e \u0432 \u0420\u043e\u0441\u0441\u0438\u0438", 
+          "phone_number": null, 
+          "social_medias": {}, 
+          "website": null, 
+          "mail": null
+     }, 
+     {
+          "name": "\u0426\u0438\u0444\u0440\u0443\u0441", 
+          "occupancy": "\u0418\u043d\u0442\u0435\u0440\u043d\u0435\u0442-\u043c\u0430\u0433\u0430\u0437\u0438\u043d \u043c\u043e\u0431\u0438\u043b\u044c\u043d\u044b\u0445 \u0442\u0435\u043b\u0435\u0444\u043e\u043d\u043e\u0432", 
+          "rating": 4.0, 
+          "firm_id": "https://2gis.kz/moscow/firm/4504127908773481", 
+          "address": {
+               "street": {
+                    "text": "2-\u044f \u0424\u0438\u043b\u0451\u0432\u0441\u043a\u0430\u044f \u0443\u043b\u0438\u0446\u0430,15/19", 
+                    "link": "/moscow/geo/4504235282650829"
+               }, 
+               "floor": null, 
+               "city": "\u0424\u0438\u043b\u0451\u0432\u0441\u043a\u0438\u0439 \u043f\u0430\u0440\u043a \u0440\u0430\u0439\u043e\u043d, \u041c\u043e\u0441\u043a\u0432\u0430, 121096"
+          }, 
+          "about": "\u0418\u043d\u0442\u0435\u0440\u043d\u0435\u0442-\u043c\u0430\u0433\u0430\u0437\u0438\u043d \u043c\u043e\u0431\u0438\u043b\u044c\u043d\u044b\u0445 \u0442\u0435\u043b\u0435\u0444\u043e\u043d\u043e\u0432", 
+          "phone_number": "tel:+74956627777", 
+          "social_medias": {
+               "\u0412\u041a\u043e\u043d\u0442\u0430\u043a\u0442\u0435": "https://vk.com/cifrusvk"
+          }, 
+          "website": "http://link.2gis.com/1.2/B9124025/online/20230401/project32/4504127908773481/null/vht3zh6B3AG2761713IGGG25fzlww995G6G46C7A015584H1qEpt7A421J74G4IG1J1JI7GJcd2juv6B0C59891AA9H1HJ3H3?http://www.cifrus.ru", 
+          "mail": "www.cifrus.ru"
+     }, 
+     {
+          "name": "Remont-\u0413\u0430\u0434\u0436\u0435\u0442\u043e\u0432", 
+          "occupancy": "\u0421\u0435\u0440\u0432\u0438\u0441\u043d\u044b\u0439 \u0446\u0435\u043d\u0442\u0440", 
+          "rating": 4.8, 
+          "firm_id": "https://2gis.kz/moscow/firm/70000001037542839", 
+          "address": {
+               "street": {
+                    "text": "\u041b\u0435\u043d\u0438\u043d\u0433\u0440\u0430\u0434\u0441\u043a\u0438\u0439 \u043f\u0440\u043e\u0441\u043f\u0435\u043a\u0442,37\u0411", 
+                    "link": "/moscow/geo/4504235282679913"
+               }, 
+               "floor": "\u041b\u0435\u043d\u0438\u043d\u0433\u0440\u0430\u0434\u0441\u043a\u0438\u0439 \u043f\u0440\u043e\u0441\u043f\u0435\u043a\u0442,37\u0411", 
+               "city": "\u0425\u043e\u0440\u043e\u0448\u0451\u0432\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d, \u041c\u043e\u0441\u043a\u0432\u0430, 125167"
+          }, 
+          "about": "\u0421\u0435\u0440\u0432\u0438\u0441\u043d\u044b\u0439 \u0446\u0435\u043d\u0442\u0440", 
+          "phone_number": "tel:+79299966616", 
+          "social_medias": {
+               "\u0412\u041a\u043e\u043d\u0442\u0430\u043a\u0442\u0435": "https://vk.com/professorapple", 
+               "WhatsApp": "https://wa.me/79299966616?text=%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%D1%82%D0%B5!%0A%0A%D0%9F%D0%B8%D1%88%D1%83%20%D0%B8%D0%B7%20%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F%202%D0%93%D0%98%D0%A1.%0A%0A"
+          }, 
+          "website": "http://link.2gis.com/1.2/5FD8BE65/online/20230401/project32/70000001037542839/null/fy3DDD6B3AG2A11301IGGGG2lm6n9n95G6G46C7A016386AHqEpt7A421J74G4IG1JG4IJ4JhDhruv6B0C591115A71H1JJ1d5?http://Professorapple.ru", 
+          "mail": "Professorapple.ru"
+     }, 
+     {
+          "name": "\u0422\u0435\u0445\u043d\u043e\u043f\u0430\u0440\u043a", 
+          "occupancy": "\u0421\u0435\u0442\u044c \u043c\u0430\u0433\u0430\u0437\u0438\u043d\u043e\u0432 \u0431\u044b\u0442\u043e\u0432\u043e\u0439 \u0442\u0435\u0445\u043d\u0438\u043a\u0438 \u0438 \u044d\u043b\u0435\u043a\u0442\u0440\u043e\u043d\u0438\u043a\u0438", 
+          "rating": 3.9, 
+          "firm_id": "https://2gis.kz/moscow/firm/70000001051993034", 
+          "address": {
+               "street": {
+                    "text": "\u041f\u0440\u0435\u0441\u043d\u0435\u043d\u0441\u043a\u0430\u044f \u043d\u0430\u0431\u0435\u0440\u0435\u0436\u043d\u0430\u044f,2", 
+                    "link": "/moscow/geo/4504235282796239"
+               }, 
+               "floor": "\u041f\u0440\u0435\u0441\u043d\u0435\u043d\u0441\u043a\u0430\u044f \u043d\u0430\u0431\u0435\u0440\u0435\u0436\u043d\u0430\u044f,2", 
+               "city": "\u041f\u0440\u0435\u0441\u043d\u0435\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d, \u041c\u043e\u0441\u043a\u0432\u0430, 123112"
+          }, 
+          "about": "\u0421\u0435\u0442\u044c \u043c\u0430\u0433\u0430\u0437\u0438\u043d\u043e\u0432 \u0431\u044b\u0442\u043e\u0432\u043e\u0439 \u0442\u0435\u0445\u043d\u0438\u043a\u0438 \u0438 \u044d\u043b\u0435\u043a\u0442\u0440\u043e\u043d\u0438\u043a\u0438", 
+          "phone_number": "tel:88001005588", 
+          "social_medias": {
+               "\u0412\u041a\u043e\u043d\u0442\u0430\u043a\u0442\u0435": "https://vk.com/technoparkru", 
+               "\u041e\u0434\u043d\u043e\u043a\u043b\u0430\u0441\u0441\u043d\u0438\u043a\u0438": "https://ok.ru/group/technopark", 
+               "Telegram": "https://t.me/technopark_ru"
+          }, 
+          "website": "http://link.2gis.com/1.2/7DD2AE93/online/20230401/project32/70000001051993034/null/5xnlfl6B3AG2A11301IGGGG2Al3u5p95G6G46C7A01B4065HqEpt7A421J74G4IG1JG4IJ4Jjfi4uv6B0C5911174B1H1JJ1A6?http://technopark.ru/?utm_source=2gis&utm_medium=cpc&utm_campaign=2gis&utm_content=msk", 
+          "mail": "technopark.ru"
+     }, 
+     {
+          "name": "VKService", 
+          "occupancy": "\u041a\u043e\u043c\u043f\u0430\u043d\u0438\u044f \u043f\u043e \u0440\u0435\u043c\u043e\u043d\u0442\u0443 \u0446\u0438\u0444\u0440\u043e\u0432\u043e\u0439 \u0442\u0435\u0445\u043d\u0438\u043a\u0438", 
+          "rating": 5.0, 
+          "firm_id": "https://2gis.kz/moscow/firm/70000001039944335", 
+          "address": {
+               "street": {
+                    "text": "\u0423\u043b\u0438\u0446\u0430 \u0411\u0430\u0436\u043e\u0432\u0430,7", 
+                    "link": "/moscow/geo/4504235282630776"
+               }, 
+               "floor": "9 \u043a\u0430\u0431\u0438\u043d\u0435\u0442; \u0446\u043e\u043a\u043e\u043b\u044c\u043d\u044b\u0439 \u044d\u0442\u0430\u0436", 
+               "city": "\u0420\u043e\u0441\u0442\u043e\u043a\u0438\u043d\u043e \u0440\u0430\u0439\u043e\u043d, \u041c\u043e\u0441\u043a\u0432\u0430, 129128"
+          }, 
+          "about": "\u041a\u043e\u043c\u043f\u0430\u043d\u0438\u044f \u043f\u043e \u0440\u0435\u043c\u043e\u043d\u0442\u0443 \u0446\u0438\u0444\u0440\u043e\u0432\u043e\u0439 \u0442\u0435\u0445\u043d\u0438\u043a\u0438", 
+          "phone_number": "tel:+79689683338", 
+          "social_medias": {
+               "WhatsApp": "https://wa.me/79689683338?text=%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%D1%82%D0%B5!%0A%0A%D0%9F%D0%B8%D1%88%D1%83%20%D0%B8%D0%B7%20%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F%202%D0%93%D0%98%D0%A1.%0A%0A", 
+               "Viber": "viber://chat/?number=+79689683338", 
+               "Telegram": "https://t.me/vkservice"
+          }, 
+          "website": "http://link.2gis.com/1.2/FFF5C5B0/online/20230401/project32/70000001039944335/null/5xnlfl6B3AG2A11301IGGGG2Al3u5p95G6G46C7A0265366HqEpt7A422J74G4IG1JG4IJ4Jjfi4uv6B0C591115CB1H1JJ1A9?http://vkservice.ru", 
+          "mail": "vkservice.ru"
+     }, 
+     {
+          "name": "BaltStore", 
+          "occupancy": "\u041c\u043e\u0431\u0438\u043b\u044c\u043d\u044b\u0435 \u0442\u0435\u043b\u0435\u0444\u043e\u043d\u044b", 
+          "rating": 4.8, 
+          "firm_id": "https://2gis.kz/moscow/firm/70000001066525377", 
+          "address": {
+               "street": {
+                    "text": "\u0411\u0430\u0433\u0440\u0430\u0442\u0438\u043e\u043d\u043e\u0432\u0441\u043a\u0438\u0439 \u043f\u0440\u043e\u0435\u0437\u0434,3", 
+                    "link": "/moscow/geo/4504235282799729"
+               }, 
+               "floor": null, 
+               "city": "\u0424\u0438\u043b\u0451\u0432\u0441\u043a\u0438\u0439 \u043f\u0430\u0440\u043a \u0440\u0430\u0439\u043e\u043d, \u041c\u043e\u0441\u043a\u0432\u0430, 121087"
+          }, 
+          "about": "\u041c\u043e\u0431\u0438\u043b\u044c\u043d\u044b\u0435 \u0442\u0435\u043b\u0435\u0444\u043e\u043d\u044b", 
+          "phone_number": "tel:+79114787378", 
+          "social_medias": {
+               "WhatsApp": "https://wa.me/79114787378?text=%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%D1%82%D0%B5!%0A%0A%D0%9F%D0%B8%D1%88%D1%83%20%D0%B8%D0%B7%20%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F%202%D0%93%D0%98%D0%A1.%0A%0A", 
+               "Viber": "viber://chat/?number=+79114787378"
+          }, 
+          "website": "http://link.2gis.com/1.2/CBE12874/online/20230401/project32/70000001066525377/null/q597946B3AG2A11301IGGGG2bxci4k95G6G46C7A01463A8HqEpt7A421J74G4IG1JG4IJ4JfD56uv6B0C591118971H1JJ1bd?http://baltstore.ru", 
+          "mail": "baltstore.ru"
+     }, 
+     {
+          "name": "Yota", 
+          "occupancy": "\u0421\u0430\u043b\u043e\u043d \u0441\u0432\u044f\u0437\u0438", 
+          "rating": null, 
+          "firm_id": "https://2gis.kz/moscow/firm/70000001044898192", 
+          "address": {
+               "street": {
+                    "text": "\u0411\u043e\u043b\u044c\u0448\u0430\u044f \u0421\u0435\u043c\u0451\u043d\u043e\u0432\u0441\u043a\u0430\u044f \u0443\u043b\u0438\u0446\u0430,20", 
+                    "link": "/moscow/geo/70030076169850989"
+               }, 
+               "floor": "\u0411\u043e\u043b\u044c\u0448\u0430\u044f \u0421\u0435\u043c\u0451\u043d\u043e\u0432\u0441\u043a\u0430\u044f \u0443\u043b\u0438\u0446\u0430,20", 
+               "city": "\u0421\u043e\u043a\u043e\u043b\u0438\u043d\u0430\u044f \u0413\u043e\u0440\u0430 \u0440\u0430\u0439\u043e\u043d, \u041c\u043e\u0441\u043a\u0432\u0430, 107023"
+          }, 
+          "about": "\u0421\u0430\u043b\u043e\u043d \u0441\u0432\u044f\u0437\u0438", 
+          "phone_number": "tel:88005500007", 
+          "social_medias": {
+               "\u0412\u041a\u043e\u043d\u0442\u0430\u043a\u0442\u0435": "https://vk.com/yota", 
+               "Telegram": "https://t.me/yotarussia"
+          }, 
+          "website": "http://link.2gis.com/1.2/9724F88C/online/20230401/project32/70000001044898192/null/t5zgyg6B3AG2A11301IGGGG2dkn8cA95G6G46C7A01B91C3HqEpt7A421J74G4IG1JG4IJ4Jg2tuuv6B0C5911167A1H1JJ19f?http://www.yota.ru/voice/order-sim?utm_source=2gis-maps&utm_medium=perfo&utm_campaign=yota_mi_flt_b2c_msk-spb_nov-dec&utm_content=zakaz-online", 
+          "mail": "yota.ru"
+     }
+]

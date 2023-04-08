@@ -240,16 +240,21 @@ class RequestSender(object):
                 for name in JWGISV["GetAllPagesCount"]:
                     currentClue = currentClue.find(name=name["name"], class_=name["cl"])
 
-                print("LastElem", pprint.pprint(str(currentClue.findChildren)))
+                # print("LastElem", pprint.pprint(str(currentClue.findChildren)))
                 elements = currentClue.find_all(name="a", class_="_12164l30")
-                pages = len(elements) + 1; print(pages)
+                pages = len(elements) + 1; print("Page amount: ", pages)
                 return pages
 
             async def GetAllContents() -> Any:
                 pages = await GetAllPages()
                 AllTasks = []
-                for page in range(pages):
 
+                # It works as done callback but little different as async and returns getSteep()
+                async def SteepGetting(resultobj: ParseResult): return resultobj.getSteep()
+                # This method receives coroutine and then await it then returns await result from above back
+                async def asyncRegulator(coroutine): return await SteepGetting(await coroutine)
+
+                for page in range(pages):
                     async with session.get(url=f"{url}/page/{page}", headers=headers) as res:
                         TextIs = await res.text()
 
@@ -261,13 +266,9 @@ class RequestSender(object):
                     for content in range(len(contents)):
                         linkIs = contents[content].find(name=JWGISV["GetACC"]["step5"]["name"], class_=JWGISV["GetACC"]["step5"]["cl"])
                         FirmLink = linkIs.get("href")
-                        AllTasks.append(asyncio.create_task(ParseFirm(firm_link=FirmLink)))
+                        AllTasks.append(asyncRegulator(asyncio.create_task(ParseFirm(firm_link=FirmLink))))
 
-                def SteepGetting(future):
-                    future.result()
-
-                gathering = asyncio.gather(*AllTasks); gathering.add_done_callback(SteepGetting)
-                ListOfLinks: list[ParseResult] = await gathering
+                ListOfLinks: list[Any] = await asyncio.gather(*AllTasks)
                 # ListOfLinks = [objectValue.getSteep() for objectValue in ListOfLinks]
                 return list(ListOfLinks)
 
@@ -283,7 +284,7 @@ class RequestSender(object):
 
                 resultsFromTasks = await asyncio.gather(*waited)
                 # print(type(resultsFromTasks[0]), type(resultsFromTasks[1]))
-                # self.WriteJson(values=resultsFromTasks[1])
+                self.WriteJson(values=resultsFromTasks[1])
                 return resultsFromTasks
 
             async def GetFirm():
@@ -296,16 +297,9 @@ class RequestSender(object):
             else: raise ValueError("You must to give some params")
 
 
-class TextCleaner(object):
-    def __init__(self):
-        pass
-
-    def Cleaner(self):
-        pass
-
 
 if __name__ == "__main__":
-    result = asyncio.run(RequestSender(query="самса", city="almaty").Sendrequest(all_val=True))
+    result = asyncio.run(RequestSender(query="apple", city="moscow").Sendrequest(all_val=True))
     pprint.pprint(result[1], width=65, indent=1, compact=True)
-    print(len(result[1]))
+    print("Total firm amount: ", len(result[1]))
     # res = asyncio.run(RequestSender(query="alma", city="almaty").Sendrequest())

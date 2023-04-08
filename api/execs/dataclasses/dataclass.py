@@ -1,10 +1,13 @@
 import asyncio
 import os
 import pathlib
+import random
 import re
 
 import attr
 from typing import *
+
+import requests
 
 
 class Attrs(object):
@@ -56,3 +59,10 @@ plop = {'about': 'Кафе',
 # value = {plop.__setitem__(key, await rr().Deleter(value)) for key, value in plop.items()}
 # print(plop)
 
+
+# coordinates = '76.945298%2C43.238478%2F12'
+# res = requests.get(f'https://2gis.kz/almaty/search/спортзалл/page/22?m={coordinates}',
+#                    headers=Attrs.headers)
+# print(res.status_code)
+# print(res.url)
+# print(res.text)

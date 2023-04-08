@@ -1,3 +1,4 @@
+import asyncio
 from typing import Union, Any
 
 from flask import Flask, render_template, request, redirect, url_for, jsonify
@@ -21,21 +22,22 @@ def home(lists: list = None):
 @app.route("/search", methods=['POST'])
 def searching():
     if request.method == 'POST':
-        def GettingResultFrom2Gis() -> Union[list, dict, Any]:
+        def GettingResultFrom2Gis(SessionJson: dict) -> Union[list, dict, Any]:
             if all([True if tag in SessionJson else False for tag in ["query", "city"]]):
-                [SessionJson.__delitem__(item) for item in ["query", "city"]]; OtherArgs = SessionJson
-                return RequestSender(query=SessionJson['query'], city=SessionJson['city'], **OtherArgs).Sendrequest()
+                OtherArgs = SessionJson.copy(); [OtherArgs.__delitem__(item) for item in ["query", "city"]]
+                return asyncio.run(RequestSender(
+                    query=SessionJson['query'], city=SessionJson['city'], **OtherArgs).Sendrequest(all_val=True))
 
         if request.form:
             queryText = request.form["text"]
             cityText = request.form["city"]
             print("Text: ", queryText)
-            FirmValues = GettingResultFrom2Gis()[1]
+            FirmValues = GettingResultFrom2Gis({'query': queryText, 'city': cityText})[1]
             return render_template("index.html", params=FirmValues, query=queryText, city=cityText)
 
         if request.get_json() is not None:
             SessionJson: dict = request.get_json()
-            return jsonify(GettingResultFrom2Gis()[1])
+            return jsonify(GettingResultFrom2Gis(SessionJson)[1])
 
         return jsonify({"Request json tags": "invalid"}), 400
 
