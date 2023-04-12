@@ -1,13 +1,5 @@
-import asyncio
-import os
-import pathlib
-import random
-import re
-
 import attr
 from typing import *
-
-import requests
 
 
 class Attrs(object):
@@ -34,35 +26,3 @@ class ParseResult:
 
     def getFields(self):
         return attr.fields(self.__class__)
-
-
-plop = {'about': 'Кафе',
-  'address': {'city': 'Туркестан\xa0м-н, Алатауский район, '
-                      'Алматы, 050047/A01C3H5',
-              'floor': '1 этаж',
-              'street': {'link': '/almaty/geo/9430047375010954',
-                         'text': 'Микрорайон Туркестан,\xa0'
-                                 '76в'}},
-  'firm_id': 'https://2gis.kz/almaty/firm/70000001066506546',
-  'mail': None,
-  'name': 'Достар\xa0',
-  'occupancy': 'Кафе',
-  'phone_number': 'tel:+77077585358',
-  'rating': 4.6,
-  'social_medias': {'Instagram': 'https://instagram.com/cafe__dostar',
-                    'WhatsApp': 'https://wa.me/77077585358?text=%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%D1%82%D0%B5!%0A%0A%D0%9F%D0%B8%D1%88%D1%83%20%D0%B8%D0%B7%20%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F%202%D0%93%D0%98%D0%A1.%0A%0A'},
-  'website': 'https://instagram.com/cafe__dostar'}
-
-
-# from api.execs.requesting import RequestSender as rr
-#
-# value = {plop.__setitem__(key, await rr().Deleter(value)) for key, value in plop.items()}
-# print(plop)
-
-
-# coordinates = '76.945298%2C43.238478%2F12'
-# res = requests.get(f'https://2gis.kz/almaty/search/спортзалл/page/22?m={coordinates}',
-#                    headers=Attrs.headers)
-# print(res.status_code)
-# print(res.url)
-# print(res.text)
